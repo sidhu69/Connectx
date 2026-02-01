@@ -10,19 +10,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Checkout repo
       - uses: actions/checkout@v4
 
+      # Step 2: Set up Java 17
       - name: Set up Java
         uses: actions/setup-java@v4
         with:
           distribution: 'temurin'
           java-version: '17'
 
+      # Step 3: Set up Flutter
       - name: Set up Flutter
         uses: subosito/flutter-action@v2
         with:
           flutter-version: '3.19.0'
 
+      # Step 4: Create Flutter project and move your code
       - name: Create Flutter project
         run: |
           flutter create -t app app
@@ -33,11 +37,19 @@ jobs:
           cd app
           flutter pub get
 
+      # Step 5: Move Firebase config
+      - name: Move Firebase config
+        run: |
+          mkdir -p app/android/app
+          mv google-services.json app/android/app/
+
+      # Step 6: Build release APK
       - name: Build APK
         run: |
           cd app
           flutter build apk --release
 
+      # Step 7: Upload APK as artifact
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
