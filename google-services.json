@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345676777174",
+    "project_id": "connectx-2c8af",
+    "storage_bucket": "connectx-2c8af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345676777174:android:c93e5e9f6f4cad5eecab77",
+        "android_client_info": {
+          "package_name": "com.connectx.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-X6cawn5A9LwmdAk1Z8E9ZZxeiL7jG5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
