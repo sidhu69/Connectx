@@ -51,11 +51,10 @@ class _LoginPageState extends State<LoginPage> {
                               shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(50)),
                             ),
                             onPressed: () {
-                              if (_formKey.currentState!.validate()) {
-                                // Add login logic
-                              }
+                              // Skipping authentication for design testing
+                              Navigator.pushReplacementNamed(context, '/home');
                             },
-                            child: Text("Continue", style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold)),
+                            child: Text("Continue (Debug Login)", style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold)),
                           ),
                           SizedBox(height: 30),
                           TextButton(
@@ -83,7 +82,6 @@ class _LoginPageState extends State<LoginPage> {
         boxShadow: [BoxShadow(color: Color.fromRGBO(225, 95, 27, .3), blurRadius: 20, offset: Offset(0, 10))],
       ),
       child: TextFormField(
-        obscureText: isPassword && !_isPasswordVisible,
         decoration: InputDecoration(
           hintText: hint,
           prefixIcon: Icon(icon, color: Colors.blue),
@@ -95,7 +93,6 @@ class _LoginPageState extends State<LoginPage> {
           border: InputBorder.none,
           contentPadding: EdgeInsets.all(15),
         ),
-        validator: (value) => value!.isEmpty ? "Please enter $hint" : null,
       ),
     );
   }
