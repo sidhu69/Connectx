@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'chat_detail_page.dart';
 
 class FriendsPage extends StatelessWidget {
   final List<Map<String, String>> friends = [
@@ -29,7 +30,17 @@ class FriendsPage extends StatelessWidget {
               Icon(Icons.chevron_right, size: 16, color: Colors.grey),
             ],
           ),
-          onTap: () {},
+          onTap: () {
+            Navigator.push(
+              context,
+              MaterialPageRoute(
+                builder: (context) => ChatDetailPage(
+                  name: friend['name']!,
+                  image: friend['image']!,
+                ),
+              ),
+            );
+          },
         );
       },
     );
