@@ -1,26 +1,28 @@
 import 'package:flutter/material.dart';
+import 'pages/login_page.dart';
+import 'pages/register_page.dart';
+import 'pages/home_page.dart';
 
 void main() {
-  runApp(const ConnectXApp());
+  runApp(ConnectXApp());
 }
 
 class ConnectXApp extends StatelessWidget {
-  const ConnectXApp({super.key});
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
       title: 'ConnectX',
-      home: Scaffold(
-        appBar: AppBar(title: const Text('ConnectX')),
-        body: const Center(
-          child: Text(
-            'ConnectX is Live 🚀',
-            style: TextStyle(fontSize: 22),
-          ),
-        ),
+      debugShowCheckedModeBanner: false,
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
+        visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
+      initialRoute: '/',
+      routes: {
+        '/': (context) => LoginPage(),
+        '/register': (context) => RegisterPage(),
+        '/home': (context) => HomePage(),
+      },
     );
   }
 }
