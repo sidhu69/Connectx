@@ -13,10 +13,15 @@ class GurbaniReaderScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color(0xFFF8F5F0),
+      backgroundColor: const Color(0xFFF8F5F0), // Page background
       appBar: AppBar(
-        title: Text(title),
-        backgroundColor: const Color(0xFF1C2A4A),
+        title: Text(
+          title,
+          style: const TextStyle(
+            color: Colors.white, // <-- Top Gurbani text is now white
+          ),
+        ),
+        backgroundColor: const Color(0xFF1C2A4A), // Deep blue
       ),
       body: Padding(
         padding: const EdgeInsets.all(20),
@@ -26,7 +31,7 @@ class GurbaniReaderScreen extends StatelessWidget {
             style: const TextStyle(
               fontSize: 18,
               height: 1.8,
-              color: Colors.black87,
+              color: Colors.black87, // Text inside page remains dark
             ),
           ),
         ),
