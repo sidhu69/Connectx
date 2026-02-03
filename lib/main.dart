@@ -1,28 +1,19 @@
 import 'package:flutter/material.dart';
-import 'pages/login_page.dart';
-import 'pages/register_page.dart';
-import 'pages/home_page.dart';
+import 'home/home_screen.dart';
 
 void main() {
-  runApp(ConnectXApp());
+  runApp(const MyApp());
 }
 
-class ConnectXApp extends StatelessWidget {
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'ConnectX',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-        visualDensity: VisualDensity.adaptivePlatformDensity,
-      ),
-      initialRoute: '/',
-      routes: {
-        '/': (context) => LoginPage(),
-        '/register': (context) => RegisterPage(),
-        '/home': (context) => HomePage(),
-      },
+      title: 'Sikh Wisdom',
+      home: const HomeScreen(),
     );
   }
 }
