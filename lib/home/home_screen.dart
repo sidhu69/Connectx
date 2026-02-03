@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import '../gurbani/gurbani_list_screen.dart'; // Added import
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
@@ -47,7 +48,12 @@ class HomeScreen extends StatelessWidget {
                 title: 'Gurbani',
                 icon: Icons.menu_book_rounded,
                 onTap: () {
-                  // TODO: Navigate to Gurbani screen
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => const GurbaniListScreen(),
+                    ),
+                  );
                 },
               ),
               const SizedBox(height: 20),
@@ -56,7 +62,7 @@ class HomeScreen extends StatelessWidget {
                 title: 'Jeevan Katha',
                 icon: Icons.auto_stories_rounded,
                 onTap: () {
-                  // TODO: Navigate to Jeevan Katha
+                  // TODO: Navigate to Jeevan Katha screen
                 },
               ),
               const SizedBox(height: 20),
@@ -65,7 +71,7 @@ class HomeScreen extends StatelessWidget {
                 title: 'Sawal / Jawab',
                 icon: Icons.question_answer_rounded,
                 onTap: () {
-                  // TODO: Navigate to Q&A
+                  // TODO: Navigate to Q&A screen
                 },
               ),
             ],
