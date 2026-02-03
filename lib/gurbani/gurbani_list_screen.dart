@@ -9,8 +9,12 @@ class GurbaniListScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Gurbani"),
-        backgroundColor: const Color(0xFF1C2A4A),
+  title: const Text(
+    "Gurbani",
+    style: TextStyle(color: Colors.white), // <-- add this
+  ),
+  backgroundColor: const Color(0xFF1C2A4A),
+),
       ),
       body: ListView.separated(
         padding: const EdgeInsets.all(20),
