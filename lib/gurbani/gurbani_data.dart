@@ -808,4 +808,758 @@ const Map<String, String> gurbaniText = {
 ਦੁਸਟ ਦੋਖ ਤੇ ਲੇਹੁ ਬਚਾਈ ॥੪੦੧॥
 ...
 """,
+
+  "Tav Prasad Savaiye": """
+ਹਰਿ ਜੁਗੁ ਜੁਗੁ ਭਗਤ ਉਪਾਇਆ ਪੈਜ ਰਖਦਾ ਆਇਆ ਰਾਮ ਰਾਜੇ ॥
+ਹਰਣਾਖਸੁ ਦੁਸਟੁ ਹਰਿ ਮਾਰਿਆ ਪ੍ਰਹਲਾਦੁ ਤਰਾਇਆ ॥
+ਅਹੰਕਾਰੀਆ ਨਿੰਦਕਾ ਪਿਠਿ ਦੇਇ ਨਾਮਦੇਉ ਮੁਖਿ ਲਾਇਆ ॥
+ਜਨ ਨਾਨਕ ਐਸਾ ਹਰਿ ਸੇਵਿਆ ਅੰਤਿ ਲਏ ਛਡਾਇਆ ॥੪॥੧੩॥੨੦॥
+
+ਸਲੋਕੁ ਮਃ ੧ ॥
+ਦੁਖੁ ਦਾਰੂ ਸੁਖੁ ਰੋਗੁ ਭਇਆ ਜਾ ਸੁਖੁ ਤਾਮਿ ਨ ਹੋਈ ॥
+ਤੂੰ ਕਰਤਾ ਕਰਣਾ ਮੈ ਨਾਹੀ ਜਾ ਹਉ ਕਰੀ ਨ ਹੋਈ ॥੧॥
+
+ਬਲਿਹਾਰੀ ਕੁਦਰਤਿ ਵਸਿਆ ॥
+ਤੇਰਾ ਅੰਤੁ ਨ ਜਾਈ ਲਖਿਆ ॥੧॥ ਰਹਾਉ ॥
+
+ਜਾਤਿ ਮਹਿ ਜੋਤਿ ਜੋਤਿ ਮਹਿ ਜਾਤਾ ਅਕਲ ਕਲਾ ਭਰਪੂਰਿ ਰਹਿਆ ॥
+ਤੂੰ ਸਚਾ ਸਾਹਿਬੁ ਸਿਫਤਿ ਸੁਆਲ੍ਹ੍ਹਿਉ ਜਿਨਿ ਕੀਤੀ ਸੋ ਪਾਰਿ ਪਇਆ ॥
+ਕਹੁ ਨਾਨਕ ਕਰਤੇ ਕੀਆ ਬਾਤਾ ਜੋ ਕਿਛੁ ਕਰਣਾ ਸੁ ਕਰਿ ਰਹਿਆ ॥੨॥
+
+ਸੋ ਦਰੁ ਰਾਗੁ ਆਸਾ ਮਹਲਾ ੧
+ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥
+
+ਸੋ ਦਰੁ ਤੇਰਾ ਕੇਹਾ ਸੋ ਘਰੁ ਕੇਹਾ ਜਿਤੁ ਬਹਿ ਸਰਬ ਸਮਾਲੇ ॥
+ਵਾਜੇ ਤੇਰੇ ਨਾਦ ਅਨੇਕ ਅਸੰਖਾ ਕੇਤੇ ਤੇਰੇ ਵਾਵਣਹਾਰੇ ॥
+ਕੇਤੇ ਤੇਰੇ ਰਾਗ ਪਰੀ ਸਿਉ ਕਹੀਅਹਿ ਕੇਤੇ ਤੇਰੇ ਗਾਵਣਹਾਰੇ ॥
+ਗਾਵਨਿ ਤੁਧਨੋ ਪਵਣੁ ਪਾਣੀ ਬੈਸੰਤਰੁ ਗਾਵੈ ਰਾਜਾ ਧਰਮੁ ਦੁਆਰੇ ॥
+ਗਾਵਨਿ ਤੁਧਨੋ ਚਿਤੁ ਗੁਪਤੁ ਲਿਖਿ ਜਾਣਨਿ ਲਿਖਿ ਲਿਖਿ ਧਰਮੁ ਬੀਚਾਰੇ ॥
+
+ਗਾਵਨਿ ਤੁਧਨੋ ਈਸਰੁ ਬ੍ਰਹਮਾ ਦੇਵੀ ਸੋਹਨਿ ਤੇਰੇ ਸਦਾ ਸਵਾਰੇ ॥
+ਗਾਵਨਿ ਤੁਧਨੋ ਇੰਦ੍ਰ ਇੰਦ੍ਰਾਸਣਿ ਬੈਠੇ ਦੇਵਤਿਆ ਦਰਿ ਨਾਲੇ ॥
+ਗਾਵਨਿ ਤੁਧਨੋ ਸਿਧ ਸਮਾਧੀ ਅੰਦਰਿ ਗਾਵਨਿ ਤੁਧਨੋ ਸਾਧ ਬੀਚਾਰੇ ॥
+ਗਾਵਨਿ ਤੁਧਨੋ ਜਤੀ ਸਤੀ ਸੰਤੋਖੀ ਗਾਵਨਿ ਤੁਧਨੋ ਵੀਰ ਕਰਾਰੇ ॥
+ਗਾਵਨਿ ਤੁਧਨੋ ਪੰਡਿਤ ਪੜਨਿ ਰਖੀਸੁਰ ਜੁਗੁ ਜੁਗੁ ਵੇਦਾ ਨਾਲੇ ॥
+
+ਗਾਵਨਿ ਤੁਧਨੋ ਮੋਹਣੀਆ ਮਨੁ ਮੋਹਨਿ ਸੁਰਗੁ ਮਛੁ ਪਇਆਲੇ ॥
+ਗਾਵਨਿ ਤੁਧਨੋ ਰਤਨ ਉਪਾਏ ਤੇਰੇ ਅਠਸਠਿ ਤੀਰਥ ਨਾਲੇ ॥
+ਗਾਵਨਿ ਤੁਧਨੋ ਜੋਧ ਮਹਾਬਲ ਸੂਰਾ ਗਾਵਨਿ ਤੁਧਨੋ ਖਾਣੀ ਚਾਰੇ ॥
+ਗਾਵਨਿ ਤੁਧਨੋ ਖੰਡ ਮੰਡਲ ਬ੍ਰਹਮੰਡਾ ਕਰਿ ਕਰਿ ਰਖੇ ਤੇਰੇ ਧਾਰੇ ॥
+
+ਸੇਈ ਤੁਧਨੋ ਗਾਵਨਿ ਜੋ ਤੁਧੁ ਭਾਵਨਿ ਰਤੇ ਤੇਰੇ ਭਗਤ ਰਸਾਲੇ ॥
+ਹੋਰਿ ਕੇਤੇ ਤੁਧਨੋ ਗਾਵਨਿ ਸੇ ਮੈ ਚਿਤਿ ਨ ਆਵਨਿ ਨਾਨਕੁ ਕਿਆ ਬੀਚਾਰੇ ॥
+ਸੋਈ ਸੋਈ ਸਦਾ ਸਚੁ ਸਾਹਿਬੁ ਸਾਚਾ ਸਾਚੀ ਨਾਈ ॥
+ਹੈ ਭੀ ਹੋਸੀ ਜਾਇ ਨ ਜਾਸੀ ਰਚਨਾ ਜਿਨਿ ਰਚਾਈ ॥
+
+ਰੰਗੀ ਰੰਗੀ ਭਾਤੀ ਕਰਿ ਕਰਿ ਜਿਨਸੀ ਮਾਇਆ ਜਿਨਿ ਉਪਾਈ ॥
+ਕਰਿ ਕਰਿ ਦੇਖੈ ਕੀਤਾ ਆਪਣਾ ਜਿਉ ਤਿਸ ਦੀ ਵਡਿਆਈ ॥
+ਜੋ ਤਿਸੁ ਭਾਵੈ ਸੋਈ ਕਰਸੀ ਫਿਰਿ ਹੁਕਮੁ ਨ ਕਰਣਾ ਜਾਈ ॥
+ਸੋ ਪਾਤਿਸਾਹੁ ਸਾਹਾ ਪਤਿਸਾਹਿਬੁ ਨਾਨਕ ਰਹਣੁ ਰਜਾਈ ॥੧॥
+
+ਆਸਾ ਮਹਲਾ ੧ ॥
+ਸੁਣਿ ਵਡਾ ਆਖੈ ਸਭੁ ਕੋਇ ॥
+ਕੇਵਡੁ ਵਡਾ ਡੀਠਾ ਹੋਇ ॥
+ਕੀਮਤਿ ਪਾਇ ਨ ਕਹਿਆ ਜਾਇ ॥
+ਕਹਣੈ ਵਾਲੇ ਤੇਰੇ ਰਹੇ ਸਮਾਇ ॥੧॥
+
+ਵਡੇ ਮੇਰੇ ਸਾਹਿਬਾ ਗਹਿਰ ਗੰਭੀਰਾ ਗੁਣੀ ਗਹੀਰਾ ॥
+ਕੋਇ ਨ ਜਾਣੈ ਤੇਰਾ ਕੇਤਾ ਕੇਵਡੁ ਚੀਰਾ ॥੧॥ ਰਹਾਉ ॥
+
+ਸਭਿ ਸੁਰਤੀ ਮਿਲਿ ਸੁਰਤਿ ਕਮਾਈ ॥
+ਸਭ ਕੀਮਤਿ ਮਿਲਿ ਕੀਮਤਿ ਪਾਈ ॥
+ਗਿਆਨੀ ਧਿਆਨੀ ਗੁਰ ਗੁਰਹਾਈ ॥
+ਕਹਣੁ ਨ ਜਾਈ ਤੇਰੀ ਤਿਲੁ ਵਡਿਆਈ ॥੨॥
+
+ਸਭਿ ਸਤ ਸਭਿ ਤਪ ਸਭਿ ਚੰਗਿਆਈਆ ॥
+ਸਿਧਾ ਪੁਰਖਾ ਕੀਆ ਵਡਿਆਈਆ ॥
+ਤੁਧੁ ਵਿਣੁ ਸਿਧੀ ਕਿਨੈ ਨ ਪਾਈਆ ॥
+ਕਰਮਿ ਮਿਲੈ ਨਾਹੀ ਠਾਕਿ ਰਹਾਈਆ ॥੩॥
+
+ਆਖਣ ਵਾਲਾ ਕਿਆ ਵੇਚਾਰਾ ॥
+ਸਿਫਤੀ ਭਰੇ ਤੇਰੇ ਭੰਡਾਰਾ ॥
+ਜਿਸੁ ਤੂ ਦੇਹਿ ਤਿਸੈ ਕਿਆ ਚਾਰਾ ॥
+ਨਾਨਕ ਸਚੁ ਸਵਾਰਣਹਾਰਾ ॥੪॥੨॥
+
+ਆਸਾ ਮਹਲਾ ੧ ॥
+ਆਖਾ ਜੀਵਾ ਵਿਸਰੈ ਮਰਿ ਜਾਉ ॥
+ਆਖਣਿ ਅਉਖਾ ਸਾਚਾ ਨਾਉ ॥
+ਸਾਚੇ ਨਾਮ ਕੀ ਲਾਗੈ ਭੂਖ ॥
+ਉਤੁ ਭੂਖੈ ਖਾਇ ਚਲੀਅਹਿ ਦੂਖ ॥੧॥
+
+ਸੋ ਕਿਉ ਵਿਸਰੈ ਮੇਰੀ ਮਾਇ ॥
+ਸਾਚਾ ਸਾਹਿਬੁ ਸਾਚੈ ਨਾਇ ॥੧॥ ਰਹਾਉ ॥
+
+ਸਾਚੇ ਨਾਮ ਕੀ ਤਿਲੁ ਵਡਿਆਈ ॥
+ਆਖਿ ਥਕੇ ਕੀਮਤਿ ਨਹੀ ਪਾਈ ॥
+ਜੇ ਸਭਿ ਮਿਲਿ ਕੈ ਆਖਣ ਪਾਹਿ ॥
+ਵਡਾ ਨ ਹੋਵੈ ਘਾਟਿ ਨ ਜਾਇ ॥੨॥
+
+ਨਾ ਓਹੁ ਮਰੈ ਨ ਹੋਵੈ ਸੋਗੁ ॥
+ਦੇਦਾ ਰਹੈ ਨ ਚੂਕੈ ਭੋਗੁ ॥
+ਗੁਣੁ ਏਹੋ ਹੋਰੁ ਨਾਹੀ ਕੋਇ ॥
+ਨਾ ਕੋ ਹੋਆ ਨਾ ਕੋ ਹੋਇ ॥੩॥
+
+ਜੇਵਡੁ ਆਪਿ ਤੇਵਡ ਤੇਰੀ ਦਾਤਿ ॥
+ਜਿਨਿ ਦਿਨੁ ਕਰਿ ਕੈ ਕੀਤੀ ਰਾਤਿ ॥
+ਖਸਮੁ ਵਿਸਾਰਹਿ ਤੇ ਕਮਜਾਤਿ ॥
+ਨਾਨਕ ਨਾਵੈ ਬਾਝੁ ਸਨਾਤਿ ॥੪॥੩॥
+
+ਰਾਗੁ ਗੂਜਰੀ ਮਹਲਾ ੪ ॥
+
+ਹਰਿ ਕੇ ਜਨ ਸਤਿਗੁਰ ਸਤਪੁਰਖਾ ਬਿਨਉ ਕਰਉ ਗੁਰ ਪਾਸਿ ॥
+ਹਮ ਕੀਰੇ ਕਿਰਮ ਸਤਿਗੁਰ ਸਰਣਾਈ ਕਰਿ ਦਇਆ ਨਾਮੁ ਪਰਗਾਸਿ ॥੧॥
+
+ਮੇਰੇ ਮੀਤ ਗੁਰਦੇਵ ਮੋ ਕਉ ਰਾਮ ਨਾਮੁ ਪਰਗਾਸਿ ॥
+ਗੁਰਮਤਿ ਨਾਮੁ ਮੇਰਾ ਪ੍ਰਾਨ ਸਖਾਈ ਹਰਿ ਕੀਰਤਿ ਹਮਰੀ ਰਹਰਾਸਿ ॥੧॥ ਰਹਾਉ ॥
+
+ਹਰਿ ਜਨ ਕੇ ਵਡ ਭਾਗ ਵਡੇਰੇ ਜਿਨ ਹਰਿ ਹਰਿ ਸਰਧਾ ਹਰਿ ਪਿਆਸ ॥
+ਹਰਿ ਹਰਿ ਨਾਮੁ ਮਿਲੈ ਤ੍ਰਿਪਤਾਸਹਿ ਮਿਲਿ ਸੰਗਤਿ ਗੁਣ ਪਰਗਾਸਿ ॥੨॥
+
+ਜਿਨ ਹਰਿ ਹਰਿ ਹਰਿ ਰਸੁ ਨਾਮੁ ਨ ਪਾਇਆ ਤੇ ਭਾਗਹੀਣ ਜਮ ਪਾਸਿ ॥
+ਜੋ ਸਤਿਗੁਰ ਸਰਣਿ ਸੰਗਤਿ ਨਹੀ ਆਏ ਧ੍ਰਿਗੁ ਜੀਵੇ ਧ੍ਰਿਗੁ ਜੀਵਾਸਿ ॥੩॥
+
+ਜਿਨ ਹਰਿ ਜਨ ਸਤਿਗੁਰ ਸੰਗਤਿ ਪਾਈ ਤਿਨ ਧੁਰਿ ਮਸਤਕਿ ਲਿਖਿਆ ਲਿਖਾਸਿ ॥
+ਧਨੁ ਧੰਨੁ ਸਤਸੰਗਤਿ ਜਿਤੁ ਹਰਿ ਰਸੁ ਪਾਇਆ ਮਿਲਿ ਜਨ ਨਾਨਕ ਨਾਮੁ ਪਰਗਾਸਿ ॥੪॥੪॥
+
+ਰਾਗੁ ਗੂਜਰੀ ਮਹਲਾ ੫ ॥
+
+ਕਾਹੇ ਰੇ ਮਨ ਚਿਤਵਹਿ ਉਦਮੁ ਜਾ ਆਹਰਿ ਹਰਿ ਜੀਉ ਪਰਿਆ ॥
+ਸੈਲ ਪਥਰ ਮਹਿ ਜੰਤ ਉਪਾਏ ਤਾ ਕਾ ਰਿਜਕੁ ਆਗੈ ਕਰਿ ਧਰਿਆ ॥੧॥
+
+ਮੇਰੇ ਮਾਧਉ ਜੀ ਸਤਸੰਗਤਿ ਮਿਲੇ ਸੁ ਤਰਿਆ ॥
+ਗੁਰ ਪਰਸਾਦਿ ਪਰਮ ਪਦੁ ਪਾਇਆ ਸੂਕੇ ਕਾਸਟ ਹਰਿਆ ॥੧॥ ਰਹਾਉ ॥
+
+ਜਨਨਿ ਪਿਤਾ ਲੋਕ ਸੁਤ ਬਨਿਤਾ ਕੋਇ ਨ ਕਿਸ ਕੀ ਧਰਿਆ ॥
+ਸਿਰਿ ਸਿਰਿ ਰਿਜਕੁ ਸੰਬਾਹੇ ਠਾਕੁਰੁ ਕਾਹੇ ਮਨ ਭਉ ਕਰਿਆ ॥੨॥
+
+ਊਡੇ ਊਡਿ ਆਵੈ ਸੈ ਕੋਸਾ ਤਿਸੁ ਪਾਛੈ ਬਚਰੇ ਛਰਿਆ ॥
+ਤਿਨ ਕਵਣੁ ਖਲਾਵੈ ਕਵਣੁ ਚੁਗਾਵੈ ਮਨ ਮਹਿ ਸਿਮਰਨੁ ਕਰਿਆ ॥੩॥
+
+ਸਭਿ ਨਿਧਾਨ ਦਸ ਅਸਟ ਸਿਧਾਨ ਠਾਕੁਰ ਕਰ ਤਲ ਧਰਿਆ ॥
+ਜਨ ਨਾਨਕ ਬਲਿ ਬਲਿ ਸਦ ਬਲਿ ਜਾਈਐ ਤੇਰਾ ਅੰਤੁ ਨ ਪਾਰਾਵਰਿਆ ॥੪॥੫॥
+
+ਰਾਗੁ ਆਸਾ ਮਹਲਾ ੪ ਸੋ ਪੁਰਖੁ
+ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥
+
+ਸੋ ਪੁਰਖੁ ਨਿਰੰਜਨੁ ਹਰਿ ਪੁਰਖੁ ਨਿਰੰਜਨੁ ਹਰਿ ਅਗਮਾ ਅਗਮ ਅਪਾਰਾ ॥
+ਸਭਿ ਧਿਆਵਹਿ ਸਭਿ ਧਿਆਵਹਿ ਤੁਧੁ ਜੀ ਹਰਿ ਸਚੇ ਸਿਰਜਣਹਾਰਾ ॥
+ਸਭਿ ਜੀਅ ਤੁਮਾਰੇ ਜੀ ਤੂੰ ਜੀਆ ਕਾ ਦਾਤਾਰਾ ॥
+ਹਰਿ ਧਿਆਵਹੁ ਸੰਤਹੁ ਜੀ ਸਭਿ ਦੂਖ ਵਿਸਾਰਣਹਾਰਾ ॥
+ਹਰਿ ਆਪੇ ਠਾਕੁਰੁ ਹਰਿ ਆਪੇ ਸੇਵਕੁ ਜੀ ਕਿਆ ਨਾਨਕ ਜੰਤ ਵਿਚਾਰਾ ॥੧॥
+
+ਤੂੰ ਘਟ ਘਟ ਅੰਤਰਿ ਸਰਬ ਨਿਰੰਤਰਿ ਜੀ ਹਰਿ ਏਕੋ ਪੁਰਖੁ ਸਮਾਣਾ ॥
+ਇਕਿ ਦਾਤੇ ਇਕਿ ਭੇਖਾਰੀ ਜੀ ਸਭਿ ਤੇਰੇ ਚੋਜ ਵਿਡਾਣਾ ॥
+ਤੂੰ ਆਪੇ ਦਾਤਾ ਆਪੇ ਭੁਗਤਾ ਜੀ ਹਉ ਤੁਧੁ ਬਿਨੁ ਅਵਰੁ ਨ ਜਾਣਾ ॥
+ਤੂੰ ਪਾਰਬ੍ਰਹਮੁ ਬੇਅੰਤੁ ਬੇਅੰਤੁ ਜੀ ਤੇਰੇ ਕਿਆ ਗੁਣ ਆਖਿ ਵਖਾਣਾ ॥
+ਜੋ ਸੇਵਹਿ ਜੋ ਸੇਵਹਿ ਤੁਧੁ ਜੀ ਜਨੁ ਨਾਨਕੁ ਤਿਨ ਕੁਰਬਾਣਾ ॥੨॥
+
+ਹਰਿ ਧਿਆਵਹਿ ਹਰਿ ਧਿਆਵਹਿ ਤੁਧੁ ਜੀ ਸੇ ਜਨ ਜੁਗ ਮਹਿ ਸੁਖਵਾਸੀ ॥
+ਸੇ ਮੁਕਤੁ ਸੇ ਮੁਕਤੁ ਭਏ ਜਿਨ ਹਰਿ ਧਿਆਇਆ ਜੀ ਤਿਨ ਤੂਟੀ ਜਮ ਕੀ ਫਾਸੀ ॥
+ਜਿਨ ਨਿਰਭਉ ਜਿਨ ਹਰਿ ਨਿਰਭਉ ਧਿਆਇਆ ਜੀ ਤਿਨ ਕਾ ਭਉ ਸਭੁ ਗਵਾਸੀ ॥
+ਜਿਨ ਸੇਵਿਆ ਜਿਨ ਸੇਵਿਆ ਮੇਰਾ ਹਰਿ ਜੀ ਤੇ ਹਰਿ ਹਰਿ ਰੂਪਿ ਸਮਾਸੀ ॥
+ਸੇ ਧੰਨੁ ਸੇ ਧੰਨੁ ਜਿਨ ਹਰਿ ਧਿਆਇਆ ਜੀ ਜਨੁ ਨਾਨਕੁ ਤਿਨ ਬਲਿ ਜਾਸੀ ॥੩॥
+
+ਤੇਰੀ ਭਗਤਿ ਤੇਰੀ ਭਗਤਿ ਭੰਡਾਰ ਜੀ ਭਰੇ ਬਿਅੰਤ ਬੇਅੰਤਾ ॥
+ਤੇਰੇ ਭਗਤ ਤੇਰੇ ਭਗਤ ਸਲਾਹਨਿ ਤੁਧੁ ਜੀ ਹਰਿ ਅਨਿਕ ਅਨੇਕ ਅਨੰਤਾ ॥
+ਤੇਰੀ ਅਨਿਕ ਤੇਰੀ ਅਨਿਕ ਕਰਹਿ ਹਰਿ ਪੂਜਾ ਜੀ ਤਪੁ ਤਾਪਹਿ ਜਪਹਿ ਬੇਅੰਤਾ ॥
+ਤੇਰੇ ਅਨੇਕ ਤੇਰੇ ਅਨੇਕ ਪੜਹਿ ਬਹੁ ਸਿਮ੍ਰਿਤਿ ਸਾਸਤ ਜੀ ਕਰਿ ਕਿਰਿਆ ਖਟੁ ਕਰਮ ਕਰੰਤਾ ॥
+ਸੇ ਭਗਤ ਸੇ ਭਗਤ ਭਲੇ ਜਨ ਨਾਨਕ ਜੀ ਜੋ ਭਾਵਹਿ ਮੇਰੇ ਹਰਿ ਭਗਵੰਤਾ ॥੪॥
+
+ਤੂੰ ਆਦਿ ਪੁਰਖੁ ਅਪਰੰਪਰੁ ਕਰਤਾ ਜੀ ਤੁਧੁ ਜੇਵਡੁ ਅਵਰੁ ਨ ਕੋਈ ॥
+ਤੂੰ ਜੁਗੁ ਜੁਗੁ ਏਕੋ ਸਦਾ ਸਦਾ ਤੂੰ ਏਕੋ ਜੀ ਤੂੰ ਨਿਹਚਲੁ ਕਰਤਾ ਸੋਈ ॥
+ਤੁਧੁ ਆਪੇ ਭਾਵੈ ਸੋਈ ਵਰਤੈ ਜੀ ਤੂੰ ਆਪੇ ਕਰਹਿ ਸੁ ਹੋਈ ॥
+ਤੁਧੁ ਆਪੇ ਸ੍ਰਿਸਟਿ ਸਭ ਉਪਾਈ ਜੀ ਤੁਧੁ ਆਪੇ ਸਿਰਜਿ ਸਭ ਗੋਈ ॥
+ਜਨੁ ਨਾਨਕੁ ਗੁਣ ਗਾਵੈ ਕਰਤੇ ਕੇ ਜੀ ਜੋ ਸਭਸੈ ਕਾ ਜਾਣੋਈ ॥੫॥੧॥
+
+ਆਸਾ ਮਹਲਾ ੪ ॥
+
+ਤੂੰ ਕਰਤਾ ਸਚਿਆਰੁ ਮੈਡਾ ਸਾਂਈ ॥
+ਜੋ ਤਉ ਭਾਵੈ ਸੋਈ ਥੀਸੀ ਜੋ ਤੂੰ ਦੇਹਿ ਸੋਈ ਹਉ ਪਾਈ ॥੧॥ ਰਹਾਉ ॥
+
+ਸਭ ਤੇਰੀ ਤੂੰ ਸਭਨੀ ਧਿਆਇਆ ॥
+ਜਿਸ ਨੋ ਕ੍ਰਿਪਾ ਕਰਹਿ ਤਿਨਿ ਨਾਮ ਰਤਨੁ ਪਾਇਆ ॥
+ਗੁਰਮੁਖਿ ਲਾਧਾ ਮਨਮੁਖਿ ਗਵਾਇਆ ॥
+ਤੁਧੁ ਆਪਿ ਵਿਛੋੜਿਆ ਆਪਿ ਮਿਲਾਇਆ ॥੧॥
+
+ਤੂੰ ਦਰੀਆਉ ਸਭ ਤੁਝ ਹੀ ਮਾਹਿ ॥
+ਤੁਝ ਬਿਨੁ ਦੂਜਾ ਕੋਈ ਨਾਹਿ ॥
+ਜੀਅ ਜੰਤ ਸਭਿ ਤੇਰਾ ਖੇਲੁ ॥
+ਵਿਜੋਗਿ ਮਿਲਿ ਵਿਛੁੜਿਆ ਸੰਜੋਗੀ ਮੇਲੁ ॥੨॥
+
+ਜਿਸ ਨੋ ਤੂ ਜਾਣਾਇਹਿ ਸੋਈ ਜਨੁ ਜਾਣੈ ॥
+ਹਰਿ ਗੁਣ ਸਦ ਹੀ ਆਖਿ ਵਖਾਣੈ ॥
+ਜਿਨਿ ਹਰਿ ਸੇਵਿਆ ਤਿਨਿ ਸੁਖੁ ਪਾਇਆ ॥
+ਸਹਜੇ ਹੀ ਹਰਿ ਨਾਮਿ ਸਮਾਇਆ ॥੩॥
+
+ਤੂ ਆਪੇ ਕਰਤਾ ਤੇਰਾ ਕੀਆ ਸਭੁ ਹੋਇ ॥
+ਤੁਧੁ ਬਿਨੁ ਦੂਜਾ ਅਵਰੁ ਨ ਕੋਇ ॥
+ਤੂ ਕਰਿ ਕਰਿ ਵੇਖਹਿ ਜਾਣਹਿ ਸੋਇ ॥
+ਜਨ ਨਾਨਕ ਗੁਰਮੁਖਿ ਪਰਗਟੁ ਹੋਇ ॥੪॥੨॥
+
+ਆਸਾ ਮਹਲਾ ੧ ॥
+
+ਤਿਤੁ ਸਰਵਰੜੈ ਭਈਲੇ ਨਿਵਾਸਾ ਪਾਣੀ ਪਾਵਕੁ ਤਿਨਹਿ ਕੀਆ ॥
+ਪੰਕਜੁ ਮੋਹ ਪਗੁ ਨਹੀ ਚਾਲੈ ਹਮ ਦੇਖਾ ਤਹ ਡੂਬੀਅਲੇ ॥੧॥
+
+ਮਨ ਏਕੁ ਨ ਚੇਤਸਿ ਮੂੜ ਮਨਾ ॥
+ਹਰਿ ਬਿਸਰਤ ਤੇਰੇ ਗੁਣ ਗਲਿਆ ॥੧॥ ਰਹਾਉ ॥
+
+ਨਾ ਹਉ ਜਤੀ ਸਤੀ ਨਹੀ ਪੜਿਆ ਮੂਰਖ ਮੁਗਧਾ ਜਨਮੁ ਭਇਆ ॥
+ਪ੍ਰਣਵਤਿ ਨਾਨਕ ਤਿਨ ਕੀ ਸਰਣਾ ਜਿਨ ਤੂ ਨਾਹੀ ਵੀਸਰਿਆ ॥੨॥੩॥
+
+ਆਸਾ ਮਹਲਾ ੫ ॥
+
+ਭਈ ਪਰਾਪਤਿ ਮਾਨੁਖ ਦੇਹੁਰੀਆ ॥
+ਗੋਬਿੰਦ ਮਿਲਣ ਕੀ ਇਹ ਤੇਰੀ ਬਰੀਆ ॥
+ਅਵਰਿ ਕਾਜ ਤੇਰੈ ਕਿਤੈ ਨ ਕਾਮ ॥
+ਮਿਲੁ ਸਾਧਸੰਗਤਿ ਭਜੁ ਕੇਵਲ ਨਾਮ ॥੧॥
+
+ਸਰੰਜਾਮਿ ਲਾਗੁ ਭਵਜਲ ਤਰਨ ਕੈ ॥
+ਜਨਮੁ ਬ੍ਰਿਥਾ ਜਾਤ ਰੰਗਿ ਮਾਇਆ ਕੈ ॥੧॥ ਰਹਾਉ ॥
+
+ਜਪੁ ਤਪੁ ਸੰਜਮੁ ਧਰਮੁ ਨ ਕਮਾਇਆ ॥
+ਸੇਵਾ ਸਾਧ ਨ ਜਾਨਿਆ ਹਰਿ ਰਾਇਆ ॥
+ਕਹੁ ਨਾਨਕ ਹਮ ਨੀਚ ਕਰੰਮਾ ॥
+ਸਰਣਿ ਪਰੇ ਕੀ ਰਾਖਹੁ ਸਰਮਾ ॥੨॥੪॥
+
+ਕਬ੍ਯੋ ਬਾਚ ਬੇਨਤੀ ॥
+
+ਚੌਪਈ ॥
+
+ਹਮਰੀ ਕਰੋ ਹਾਥ ਦੈ ਰਛਾ ॥
+ਪੂਰਨ ਹੋਇ ਚਿਤ ਕੀ ਇਛਾ ॥
+ਤਵ ਚਰਨਨ ਮਨ ਰਹੈ ਹਮਾਰਾ ॥
+ਅਪਨਾ ਜਾਨ ਕਰੋ ਪ੍ਰਤਿਪਾਰਾ ॥੩੭੭॥
+
+ਹਮਰੇ ਦੁਸਟ ਸਭੈ ਤੁਮ ਘਾਵਹੁ ॥
+ਆਪੁ ਹਾਥ ਦੈ ਮੋਹਿ ਬਚਾਵਹੁ ॥
+ਸੁਖੀ ਬਸੈ ਮੋਰੋ ਪਰਿਵਾਰਾ ॥
+ਸੇਵਕ ਸਿਖ੍ਯ ਸਭੈ ਕਰਤਾਰਾ ॥੩੭੮॥
+
+ਮੋ ਰਛਾ ਨਿਜੁ ਕਰ ਦੈ ਕਰਿਯੈ ॥
+ਸਭ ਬੈਰਿਨ ਕੌ ਆਜ ਸੰਘਰਿਯੈ ॥
+ਪੂਰਨ ਹੋਇ ਹਮਾਰੀ ਆਸਾ ॥
+ਤੋਰਿ ਭਜਨ ਕੀ ਰਹੈ ਪਿਯਾਸਾ ॥੩੭੯॥
+
+ਤੁਮਹਿ ਛਾਡਿ ਕੋਈ ਅਵਰ ਨ ਧ੍ਯਾਊ ॥
+ਜੋ ਬਰ ਚਾਹੌ ਸੁ ਤੁਮ ਤੇ ਪਾਊ ॥
+ਸੇਵਕ ਸਿਖ੍ਯ ਹਮਾਰੇ ਤਾਰਿਯਹਿ ॥
+ਚੁਨ ਚੁਨ ਸਤ੍ਰੁ ਹਮਾਰੇ ਮਾਰਿਯਹਿ ॥੩੮੦॥
+
+ਆਪੁ ਹਾਥ ਦੈ ਮੁਝੈ ਉਬਰਿਯੈ ॥
+ਮਰਨ ਕਾਲ ਕਾ ਤ੍ਰਾਸ ਨਿਵਰਿਯੈ ॥
+ਹੂਜੋ ਸਦਾ ਹਮਾਰੇ ਪਛਾ ॥
+ਸ੍ਰੀ ਅਸਿਧੁਜ ਜੂ ਕਰਿਯਹੁ ਰਛਾ ॥੩੮੧॥
+
+ਰਾਖਿ ਲੇਹੁ ਮੁਹਿ ਰਾਖਨਹਾਰੇ ॥
+ਸਾਹਿਬ ਸੰਤ ਸਹਾਇ ਪਿਯਾਰੇ ॥
+ਦੀਨਬੰਧੁ ਦੁਸਟਨ ਕੇ ਹੰਤਾ ॥
+ਤੁਮ ਹੋ ਪੁਰੀ ਚਤੁਰਦਸ ਕੰਤਾ ॥੩੮੨॥
+
+ਕਾਲ ਪਾਇ ਬ੍ਰਹਮਾ ਬਪੁ ਧਰਾ ॥
+ਕਾਲ ਪਾਇ ਸਿਵ ਜੂ ਅਵਤਰਾ ॥
+ਕਾਲ ਪਾਇ ਕਰਿ ਬਿਸਨ ਪ੍ਰਕਾਸਾ ॥
+ਸਕਲ ਕਾਲ ਕਾ ਕੀਯਾ ਤਮਾਸਾ ॥੩੮੩॥
+
+ਜਵਨ ਕਾਲ ਜੋਗੀ ਸਿਵ ਕੀਯੋ ॥
+ਬੇਦ ਰਾਜ ਬ੍ਰਹਮਾ ਜੂ ਥੀਯੋ ॥
+ਜਵਨ ਕਾਲ ਸਭ ਲੋਕ ਸਵਾਰਾ ॥
+ਨਮਸਕਾਰ ਹੈ ਤਾਹਿ ਹਮਾਰਾ ॥੩੮੪॥
+
+ਜਵਨ ਕਾਲ ਸਭ ਜਗਤ ਬਨਾਯੋ ॥
+ਦੇਵ ਦੈਤ ਜਛਨ ਉਪਜਾਯੋ ॥
+ਆਦਿ ਅੰਤਿ ਏਕੈ ਅਵਤਾਰਾ ॥
+ਸੋਈ ਗੁਰੂ ਸਮਝਿਯਹੁ ਹਮਾਰਾ ॥੩੮੫॥
+
+ਨਮਸਕਾਰ ਤਿਸ ਹੀ ਕੋ ਹਮਾਰੀ ॥
+ਸਕਲ ਪ੍ਰਜਾ ਜਿਨ ਆਪ ਸਵਾਰੀ ॥
+ਸਿਵਕਨ ਕੋ ਸਿਵਗੁਨ ਸੁਖ ਦੀਯੋ ॥
+ਸਤ੍ਰੁਨ ਕੋ ਪਲ ਮੋ ਬਧ ਕੀਯੋ ॥੩੮੬॥
+
+ਘਟ ਘਟ ਕੇ ਅੰਤਰ ਕੀ ਜਾਨਤ ॥
+ਭਲੇ ਬੁਰੇ ਕੀ ਪੀਰ ਪਛਾਨਤ ॥
+ਚੀਟੀ ਤੇ ਕੁੰਚਰ ਅਸਥੂਲਾ ॥
+ਸਭ ਪਰ ਕ੍ਰਿਪਾ ਦ੍ਰਿਸਟਿ ਕਰਿ ਫੂਲਾ ॥੩੮੭॥
+
+ਸੰਤਨ ਦੁਖ ਪਾਏ ਤੇ ਦੁਖੀ ॥
+ਸੁਖ ਪਾਏ ਸਾਧਨ ਕੇ ਸੁਖੀ ॥
+ਏਕ ਏਕ ਕੀ ਪੀਰ ਪਛਾਨੈ ॥
+ਘਟ ਘਟ ਕੇ ਪਟ ਪਟ ਕੀ ਜਾਨੈ ॥੩੮੮॥
+
+ਜਬ ਉਦਕਰਖ ਕਰਾ ਕਰਤਾਰਾ ॥
+ਪ੍ਰਜਾ ਧਰਤ ਤਬ ਦੇਹ ਅਪਾਰਾ ॥
+ਜਬ ਆਕਰਖ ਕਰਤ ਹੋ ਕਬਹੂੰ ॥
+ਤੁਮ ਮੈ ਮਿਲਤ ਦੇਹ ਧਰ ਸਭਹੂੰ ॥੩੮੯॥
+
+ਜੇਤੇ ਬਦਨ ਸ੍ਰਿਸਟਿ ਸਭ ਧਾਰੈ ॥
+ਆਪੁ ਆਪੁਨੀ ਬੂਝਿ ਉਚਾਰੈ ॥
+ਤੁਮ ਸਭ ਹੀ ਤੇ ਰਹਤ ਨਿਰਾਲਮ ॥
+ਜਾਨਤ ਬੇਦ ਭੇਦ ਅਰੁ ਆਲਮ ॥੩੯੦॥
+
+ਨਿਰੰਕਾਰ ਨ੍ਰਿਬਿਕਾਰ ਨ੍ਰਿਲੰਭ ॥
+ਆਦਿ ਅਨੀਲ ਅਨਾਦਿ ਅਸੰਭ ॥
+ਤਾ ਕਾ ਮੂੜ ਉਚਾਰਤ ਭੇਦਾ ॥
+ਜਾ ਕੋ ਭੇਵ ਨ ਪਾਵਤ ਬੇਦਾ ॥੩੯੧॥
+
+ਤਾ ਕੌ ਕਰਿ ਪਾਹਨ ਅਨੁਮਾਨਤ ॥
+ਮਹਾ ਮੂੜ ਕਛੁ ਭੇਦ ਨ ਜਾਨਤ ॥
+ਮਹਾਦੇਵ ਕੌ ਕਹਤ ਸਦਾ ਸਿਵ ॥
+ਨਿਰੰਕਾਰ ਕਾ ਚੀਨਤ ਨਹਿ ਭਿਵ ॥੩੯੨॥
+
+ਆਪੁ ਆਪੁਨੀ ਬੁਧਿ ਹੈ ਜੇਤੀ ॥
+ਬਰਨਤ ਭਿੰਨ ਭਿੰਨ ਤੁਹਿ ਤੇਤੀ ॥
+ਤੁਮਰਾ ਲਖਾ ਨ ਜਾਇ ਪਸਾਰਾ ॥
+ਕਿਹ ਬਿਧਿ ਸਜਾ ਪ੍ਰਥਮ ਸੰਸਾਰਾ ॥੩੯੩॥
+
+ਏਕੈ ਰੂਪ ਅਨੂਪ ਸਰੂਪਾ ॥
+ਰੰਕ ਭਯੋ ਰਾਵ ਕਹੀ ਭੂਪਾ ॥
+ਅੰਡਜ ਜੇਰਜ ਸੇਤਜ ਕੀਨੀ ॥
+ਉਤਭੁਜ ਖਾਨਿ ਬਹੁਰਿ ਰਚਿ ਦੀਨੀ ॥੩੯੪॥
+
+ਕਹੂੰ ਫੂਲਿ ਰਾਜਾ ਹ੍ਵੈ ਬੈਠਾ ॥
+ਕਹੂੰ ਸਿਮਟਿ ਭਯੋ ਸੰਕਰ ਇਕੈਠਾ ॥
+ਸਗਰੀ ਸ੍ਰਿਸਟਿ ਦਿਖਾਇ ਅਚੰਭਵ ॥
+ਆਦਿ ਜੁਗਾਦਿ ਸਰੂਪ ਸੁਯੰਭਵ ॥੩੯੫॥
+
+ਅਬ ਰਛਾ ਮੇਰੀ ਤੁਮ ਕਰੋ ॥
+ਸਿਖ੍ਯ ਉਬਾਰਿ ਅਸਿਖ੍ਯ ਸੰਘਰੋ ॥
+ਦੁਸਟ ਜਿਤੇ ਉਠਵਤ ਉਤਪਾਤਾ ॥
+ਸਕਲ ਮਲੇਛ ਕਰੋ ਰਣ ਘਾਤਾ ॥੩੯੬॥
+
+ਜੇ ਅਸਿਧੁਜ ਤਵ ਸਰਨੀ ਪਰੇ ॥
+ਤਿਨ ਕੇ ਦੁਸਟ ਦੁਖਿਤ ਹ੍ਵੈ ਮਰੇ ॥
+ਪੁਰਖ ਜਵਨ ਪਗੁ ਪਰੇ ਤਿਹਾਰੇ ॥
+ਤਿਨ ਕੇ ਤੁਮ ਸੰਕਟ ਸਭ ਟਾਰੇ ॥੩੯੭॥
+
+ਜੋ ਕਲਿ ਕੌ ਇਕ ਬਾਰ ਧਿਐਹੈ ॥
+ਤਾ ਕੇ ਕਾਲ ਨਿਕਟਿ ਨਹਿ ਐਹੈ ॥
+ਰਛਾ ਹੋਇ ਤਾਹਿ ਸਭ ਕਾਲਾ ॥
+ਦੁਸਟ ਅਰਿਸਟ ਟਰੈਂ ਤਤਕਾਲਾ ॥੩੯੮॥
+
+ਕ੍ਰਿਪਾ ਦ੍ਰਿਸਟਿ ਤਨ ਜਾਹਿ ਨਿਹਰਿਹੋ ॥
+ਤਾ ਕੇ ਤਾਪ ਤਨਕ ਮਹਿ ਹਰਿਹੋ ॥
+ਰਿਧਿ ਸਿਧਿ ਘਰ ਮੋ ਸਭ ਹੋਈ ॥
+ਦੁਸਟ ਛਾਹ ਛ੍ਵੈ ਸਕੈ ਨ ਕੋਈ ॥੩੯੯॥
+
+ਏਕ ਬਾਰ ਜਿਨ ਤੁਮੈ ਸੰਭਾਰਾ ॥
+ਕਾਲ ਫਾਸ ਤੇ ਤਾਹਿ ਉਬਾਰਾ ॥
+ਜਿਨ ਨਰ ਨਾਮ ਤਿਹਾਰੋ ਕਹਾ ॥
+ਦਾਰਿਦ ਦੁਸਟ ਦੋਖ ਤੇ ਰਹਾ ॥੪੦੦॥
+
+ਖੜਗਕੇਤੁ ਮੈ ਸਰਨਿ ਤਿਹਾਰੀ ॥
+ਆਪੁ ਹਾਥ ਦੈ ਲੇਹੁ ਉਬਾਰੀ ॥
+ਸਰਬ ਠੌਰ ਮੋ ਹੋਹੁ ਸਹਾਈ ॥
+ਦੁਸਟ ਦੋਖ ਤੇ ਲੇਹੁ ਬਚਾਈ ॥੪੦੧॥
+
+ਸ੍ਵੈਯਾ ॥
+
+ਪਾਂਇ ਗਹੇ ਜਬ ਤੇ ਤੁਮਰੇ ਤਬ ਤੇ ਕੋਊ ਆਂਖ ਤਰੇ ਨਹੀ ਆਨਯੋ ॥
+ਰਾਮ ਰਹੀਮ ਪੁਰਾਨ ਕੁਰਾਨ ਅਨੇਕ ਕਹੈਂ ਮਤ ਏਕ ਨ ਮਾਨਯੋ ॥
+ਸਿੰਮ੍ਰਿਤਿ ਸਾਸਤ੍ਰ ਬੇਦ ਸਭੈ ਬਹੁ ਭੇਦ ਕਹੈ ਹਮ ਏਕ ਨ ਜਾਨਯੋ ॥
+ਸ੍ਰੀ ਅਸਿਪਾਨ ਕ੍ਰਿਪਾ ਤੁਮਰੀ ਕਰਿ ਮੈ ਨ ਕਹਯੋ ਸਭ ਤੋਹਿ ਬਖਾਨਯੋ ॥੮੬੩॥
+
+ਦੋਹਰਾ ॥
+
+ਸਗਲ ਦੁਆਰ ਕਉ ਛਾਡਿ ਕੈ ਗਹਯੋ ਤੁਹਾਰੋ ਦੁਆਰ ॥
+ਬਾਂਹਿ ਗਹੇ ਕੀ ਲਾਜ ਅਸਿ ਗੋਬਿੰਦ ਦਾਸ ਤੁਹਾਰ ॥੮੬੪॥
+
+ਰਾਮਕਲੀ ਮਹਲਾ ੩ ਅਨੰਦੁ
+ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥
+
+ਅਨੰਦੁ ਭਇਆ ਮੇਰੀ ਮਾਏ ਸਤਿਗੁਰੂ ਮੈ ਪਾਇਆ ॥
+ਸਤਿਗੁਰੁ ਤ ਪਾਇਆ ਸਹਜ ਸੇਤੀ ਮਨਿ ਵਜੀਆ ਵਾਧਾਈਆ ॥
+ਰਾਗ ਰਤਨ ਪਰਵਾਰ ਪਰੀਆ ਸਬਦ ਗਾਵਣ ਆਈਆ ॥
+ਸਬਦੋ ਤ ਗਾਵਹੁ ਹਰੀ ਕੇਰਾ ਮਨਿ ਜਿਨੀ ਵਸਾਇਆ ॥
+ਕਹੈ ਨਾਨਕੁ ਅਨੰਦੁ ਹੋਆ ਸਤਿਗੁਰੂ ਮੈ ਪਾਇਆ ॥੧॥
+
+ਏ ਮਨ ਮੇਰਿਆ ਤੂ ਸਦਾ ਰਹੁ ਹਰਿ ਨਾਲੇ ॥
+ਹਰਿ ਨਾਲਿ ਰਹੁ ਤੂ ਮੰਨ ਮੇਰੇ ਦੂਖ ਸਭਿ ਵਿਸਾਰਣਾ ॥
+ਅੰਗੀਕਾਰੁ ਓਹੁ ਕਰੇ ਤੇਰਾ ਕਾਰਜ ਸਭਿ ਸਵਾਰਣਾ ॥
+ਸਭਨਾ ਗਲਾ ਸਮਰਥੁ ਸੁਆਮੀ ਸੋ ਕਿਉ ਮਨਹੁ ਵਿਸਾਰੇ ॥
+ਕਹੈ ਨਾਨਕੁ ਮੰਨ ਮੇਰੇ ਸਦਾ ਰਹੁ ਹਰਿ ਨਾਲੇ ॥੨॥
+
+ਸਾਚੇ ਸਾਹਿਬਾ ਕਿਆ ਨਾਹੀ ਘਰਿ ਤੇਰੈ ॥
+ਘਰਿ ਤ ਤੇਰੈ ਸਭੁ ਕਿਛੁ ਹੈ ਜਿਸੁ ਦੇਹਿ ਸੁ ਪਾਵਏ ॥
+ਸਦਾ ਸਿਫਤਿ ਸਲਾਹ ਤੇਰੀ ਨਾਮੁ ਮਨਿ ਵਸਾਵਏ ॥
+ਨਾਮੁ ਜਿਨ ਕੈ ਮਨਿ ਵਸਿਆ ਵਾਜੇ ਸਬਦ ਘਨੇਰੇ ॥
+ਕਹੈ ਨਾਨਕੁ ਸਚੇ ਸਾਹਿਬ ਕਿਆ ਨਾਹੀ ਘਰਿ ਤੇਰੈ ॥੩॥
+
+ਸਾਚਾ ਨਾਮੁ ਮੇਰਾ ਆਧਾਰੋ ॥
+ਸਾਚੁ ਨਾਮੁ ਅਧਾਰੁ ਮੇਰਾ ਜਿਨਿ ਭੁਖਾ ਸਭਿ ਗਵਾਈਆ ॥
+ਕਰਿ ਸਾਂਤਿ ਸੁਖ ਮਨਿ ਆਇ ਵਸਿਆ ਜਿਨਿ ਇਛਾ ਸਭਿ ਪੁਜਾਈਆ ॥
+ਸਦਾ ਕੁਰਬਾਣੁ ਕੀਤਾ ਗੁਰੂ ਵਿਟਹੁ ਜਿਸ ਦੀਆ ਏਹਿ ਵਡਿਆਈਆ ॥
+ਕਹੈ ਨਾਨਕੁ ਸੁਣਹੁ ਸੰਤਹੁ ਸਬਦਿ ਧਰਹੁ ਪਿਆਰੋ ॥
+ਸਾਚਾ ਨਾਮੁ ਮੇਰਾ ਆਧਾਰੋ ॥੪॥
+
+ਵਾਜੇ ਪੰਚ ਸਬਦ ਤਿਤੁ ਘਰਿ ਸਭਾਗੈ ॥
+ਘਰਿ ਸਭਾਗੈ ਸਬਦ ਵਾਜੇ ਕਲਾ ਜਿਤੁ ਘਰਿ ਧਾਰੀਆ ॥
+ਪੰਚ ਦੂਤ ਤੁਧੁ ਵਸਿ ਕੀਤੇ ਕਾਲੁ ਕੰਟਕੁ ਮਾਰਿਆ ॥
+ਧੁਰਿ ਕਰਮਿ ਪਾਇਆ ਤੁਧੁ ਜਿਨ ਕਉ ਸਿ ਨਾਮਿ ਹਰਿ ਕੈ ਲਾਗੇ ॥
+ਕਹੈ ਨਾਨਕੁ ਤਹ ਸੁਖੁ ਹੋਆ ਤਿਤੁ ਘਰਿ ਅਨਹਦ ਵਾਜੇ ॥੫॥
+
+ਅਨਦੁ ਸੁਣਹੁ ਵਡਭਾਗੀਹੋ ਸਗਲ ਮਨੋਰਥ ਪੂਰੇ ॥
+ਪਾਰਬ੍ਰਹਮੁ ਪ੍ਰਭੁ ਪਾਇਆ ਉਤਰੇ ਸਗਲ ਵਿਸੂਰੇ ॥
+ਦੂਖ ਰੋਗ ਸੰਤਾਪ ਉਤਰੇ ਸੁਣੀ ਸਚੀ ਬਾਣੀ ॥
+ਸੰਤ ਸਾਜਨ ਭਏ ਸਰਸੇ ਪੂਰੇ ਗੁਰ ਤੇ ਜਾਣੀ ॥
+ਸੁਣਤੇ ਪੁਨੀਤ ਕਹਤੇ ਪਵਿਤੁ ਸਤਿਗੁਰੁ ਰਹਿਆ ਭਰਪੂਰੇ ॥
+ਬਿਨਵੰਤਿ ਨਾਨਕੁ ਗੁਰ ਚਰਣ ਲਾਗੇ ਵਾਜੇ ਅਨਹਦ ਤੂਰੇ ॥੪੦॥੧॥
+
+ਮੁੰਦਾਵਣੀ ਮਹਲਾ ੫ ॥
+
+ਥਾਲ ਵਿਚਿ ਤਿੰਨਿ ਵਸਤੂ ਪਈਓ ਸਤੁ ਸੰਤੋਖੁ ਵੀਚਾਰੋ ॥
+ਅੰਮ੍ਰਿਤ ਨਾਮੁ ਠਾਕੁਰ ਕਾ ਪਇਓ ਜਿਸ ਕਾ ਸਭਸੁ ਅਧਾਰੋ ॥
+ਜੇ ਕੋ ਖਾਵੈ ਜੇ ਕੋ ਭੁੰਚੈ ਤਿਸ ਕਾ ਹੋਇ ਉਧਾਰੋ ॥
+ਏਹ ਵਸਤੁ ਤਜੀ ਨਹ ਜਾਈ ਨਿਤ ਨਿਤ ਰਖੁ ਉਰਿ ਧਾਰੋ ॥
+ਤਮ ਸੰਸਾਰੁ ਚਰਨ ਲਗਿ ਤਰੀਐ ਸਭੁ ਨਾਨਕ ਬ੍ਰਹਮ ਪਸਾਰੋ ॥੧॥
+
+ਸਲੋਕ ਮਹਲਾ ੫ ॥
+
+ਤੇਰਾ ਕੀਤਾ ਜਾਤੋ ਨਾਹੀ ਮੈਨੋ ਜੋਗੁ ਕੀਤੋਈ ॥
+ਮੈ ਨਿਰਗੁਣਿਆਰੇ ਕੋ ਗੁਣੁ ਨਾਹੀ ਆਪੇ ਤਰਸੁ ਪਇਓਈ ॥
+ਤਰਸੁ ਪਇਆ ਮਿਹਰਾਮਤਿ ਹੋਈ ਸਤਿਗੁਰੁ ਸਜਣੁ ਮਿਲਿਆ ॥
+ਨਾਨਕ ਨਾਮੁ ਮਿਲੈ ਤਾਂ ਜੀਵਾਂ ਤਨੁ ਮਨੁ ਥੀਵੈ ਹਰਿਆ ॥੧॥
+
+ਪਉੜੀ ॥
+
+ਤਿਥੈ ਤੂ ਸਮਰਥੁ ਜਿਥੈ ਕੋਇ ਨਾਹਿ ॥
+ਓਥੈ ਤੇਰੀ ਰਖ ਅਗਨੀ ਉਦਰ ਮਾਹਿ ॥
+ਸੁਣਿ ਕੈ ਜਮ ਕੇ ਦੂਤ ਨਾਇ ਤੇਰੈ ਛਡਿ ਜਾਹਿ ॥
+ਭਉਜਲੁ ਬਿਖਮੁ ਅਸਗਾਹੁ ਗੁਰ ਸਬਦੀ ਪਾਰਿ ਪਾਹਿ ॥
+ਜਿਨ ਕਉ ਲਗੀ ਪਿਆਸ ਅੰਮ੍ਰਿਤੁ ਸੇਇ ਖਾਹਿ ॥
+ਕਲਿ ਮਹਿ ਏਹੋ ਪੁੰਨੁ ਗੁਣ ਗੋਵਿੰਦ ਗਾਹਿ ॥
+ਸਭਸੈ ਨੋ ਕਿਰਪਾਲੁ ਸਮ੍ਹ੍ਹਾਲੇ ਸਾਹਿ ਸਾਹਿ ॥
+ਬਿਰਥਾ ਕੋਇ ਨ ਜਾਇ ਜਿ ਆਵੈ ਤੁਧੁ ਆਹਿ ॥੯॥
+
+ਰਾਗੁ ਗੂਜਰੀ ਵਾਰ ਮਹਲਾ ੫
+ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥
+ਸਲੋਕੁ ਮਃ ੫ ॥
+
+ਅੰਤਰਿ ਗੁਰੁ ਆਰਾਧਣਾ ਜਿਹਵਾ ਜਪਿ ਗੁਰ ਨਾਉ ॥
+ਨੇਤ੍ਰੀ ਸਤਿਗੁਰੁ ਪੇਖਣਾ ਸ੍ਰਵਣੀ ਸੁਨਣਾ ਗੁਰ ਨਾਉ ॥
+ਸਤਿਗੁਰ ਸੇਤੀ ਰਤਿਆ ਦਰਗਹ ਪਾਈਐ ਠਾਉ ॥
+ਕਹੁ ਨਾਨਕ ਕਿਰਪਾ ਕਰੇ ਜਿਸ ਨੋ ਏਹ ਵਥੁ ਦੇਇ ॥
+ਜਗ ਮਹਿ ਉਤਮ ਕਾਢੀਅਹਿ ਵਿਰਲੇ ਕੇਈ ਕੇਇ ॥੧॥
+
+ਮਃ ੫ ॥
+
+ਰਖੇ ਰਖਣਹਾਰਿ ਆਪਿ ਉਬਾਰਿਅਨੁ ॥
+ਗੁਰ ਕੀ ਪੈਰੀ ਪਾਇ ਕਾਜ ਸਵਾਰਿਅਨੁ ॥
+ਹੋਆ ਆਪਿ ਦਇਆਲੁ ਮਨਹੁ ਨ ਵਿਸਾਰਿਅਨੁ ॥
+ਸਾਧ ਜਨਾ ਕੈ ਸੰਗਿ ਭਵਜਲੁ ਤਾਰਿਅਨੁ ॥
+ਸਾਕਤ ਨਿੰਦਕ ਦੁਸਟ ਖਿਨ ਮਾਹਿ ਬਿਦਾਰਿਅਨੁ ॥
+ਤਿਸੁ ਸਾਹਿਬ ਕੀ ਟੇਕ ਨਾਨਕ ਮਨੈ ਮਾਹਿ ॥
+ਜਿਸੁ ਸਿਮਰਤ ਸੁਖੁ ਹੋਇ ਸਗਲੇ ਦੂਖ ਜਾਹਿ ॥੨॥
+
+ENGLISH MEANING
+raharaas saahib
+Rehras Sahib
+
+so dhar raag aasaa mahalaa pehilaa
+So Dar~ That Door. Raag Aasaa, First Mehla:
+
+ikOankaar satigur prasaadh ||
+One Universal Creator God. By The Grace Of The True Guru:
+
+so dhar teraa kehaa so ghar kehaa jit beh sarab samaale || vaaje tere naadh anek asa(n)khaa kete tere vaavanahaare || kete tere raag paree siau kahe’eeh kete tere gaavanahaare || gaavan tudhano pavan paanee baisa(n)tar gaavai raajaa dharam dhuaare Il gaavan tudhano chit gupat likh jaanan likh likh dharam beechaare || gaavan tudhano ieesar brahamaa dhevee sohan tere sadhaa savaare || gaavan tudhano i(n)dhr i(n)dhraasan baiThe dhevatiaa dhar naale || gaavan tudhano sidh samaadhee a(n)dhar gaavan tudhano saadh beechaare || gaavan tudhano jatee satee sa(n)tokhee gaavan tudhano veer karaare || gaavan tudhano pa(n)ddit paRan rakheesur jug jug vedhaa naale || gaavan tudhano mohaneeaa man mohan surag machh piaale || gaavan tudhano ratan upaae tere aThasaTh teerath naale || gaavan tudhano jodh mahaabal sooraa gaavan tudhano khaanee chaare || gaavan tudhano kha(n)dd ma(n)ddal brahama(n)ddaa kar kar rakhe tere dhaare || seiee tudhano gaavan jo tudh bhaavan rate tere bhagat rasaale || hor kete tudhano gaavan rasaale || hor kete tudhano gaavan se mai chit na aavan naanak kiaat beechaare || soiee soiee sadhaa sach saahib saachaa saachee naiee || hai bhee hosee jai na jaasee rachanaa jin rachaiee || ra(n)gee ra(n)gee bhaatee kar kar jinasee maiaa jin upaiee || kar kar dhekhai keetaa aapanaa jiau tis dhee vaddiaaiee || jo tis bhaavai soiee karasee fir hukam na karanaa jaiee || so paatisaahu saahaa patisaahib naanak rahan rajaiee ||1||
+
+Where is That Door of Yours, and where is That Home, in which You sit and take care of all? The Sound-current of the Naad vibrates there for You, and countless musicians play all sorts of instruments there for You. There are so many Ragas and musical harmonies to You; so many minstrels sing hymns of You. Wind, water and fire sing of You. The Righteous Judge of Dharma sings at Your Door. Chitr and Gupt, the angels of the conscious and the subconscious who keep the record of actions, and the Righteous Judge of Dharma who reads this record, sing of You. Shiva, Brahma and the Goddess of Beauty, ever adorned by You, sing of You. Indra, seated on His Throne, sings of You, with the deities at Your Door. The Siddhas in Samaadhi sing of You; the Saadhus sing of You in contemplation. The celibates, the
+fanatics, and the peacefully accepting sing of You; the fearless warriors sing of You. The Pandits, the religious scholars who recite the Vedas, with the supreme sages of all the ages, sing of You. The Mohinis, the enchanting heavenly beauties who entice hearts in paradise, in this world, and in the underworld of the subconscious, sing of You. The celestial jewels created by You, and the sixty-eight sacred shrines of pilgrimage, sing of You. The brave and mighty warriors sing of You. The spiritual heroes and the four sources of creation sing of You. The worlds, solar systems and galaxies, created and arranged by Your Hand, sing of You. They alone sing of You, who are pleasing to Your Will. Your devotees are imbued with Your Sublime Essence. So many others sing of You, they do not come to mind. O Nanak, how can I think of them all? That True Lord is True, forever True, and True is His Name. He is, and shall always be. He shall not depart, even when this Universe which He has created departs. He created the world, with its various colors, species of beings, and the variety of Maya. Having created the creation, He watches over it Himself, by His Greatness. He does whatever He pleases. No one can issue any order to Him. He is the King, the King of kings, the Supreme Lord and Master of kings. Nanak remains subject to His Will. ||1||
+
+aasaa mahalaa pehilaa ||
+Aasaa, First Mehla:
+
+sun vaddaa aakhai sabh koi || kevadd vaddaa ddee Thaa hoi || keemat pai na kahiaa jai || kahanai vaale tere rahe samai ||1||
+Hearing of His Greatness, everyone calls Him Great. But just how Great His Greatness is-this is known only to those who have seen Him. His Value cannot be estimated; He cannot be described. Those who describe You, Lord, remain immersed and absorbed in You. ||1||
+
+vadde mere saahibaa gahir ga(n)bheeraa gunee gaheeraa || koi na jaanai teraa ketaa kevadd cheeraa ||1|| rahaau || sabh suratee mil surat kamaiee || sabh keemat mil keemat paiee || giaanee dhiaanee gur gurahaiee || kahan na jaiee teree til vaddiaaiee ||2||
+
+O my Great Lord and Master of Unfathomable Depth, You are the Ocean of Excellence. No one knows the extent or the vastness of Your Expanse. ||1||Pausell All the intuitives met and practiced intuitive meditation. All the appraisers met and made the appraisal. The spiritual teachers, the teachers of meditation, and the teachers of teachers they cannot describe even an iota of Your Greatness. ||2||
+
+sabh sat sabh tap sabh cha(n)giaaieeaa || sidhaa purakhaa keeaa vaddiaaieeaa || tudh vin sidhee kinai na paieeaa || karam milai naahee Thaak rahaieeaa ||3||
+All Truth, all austere discipline, all goodness, all the great miraculous spiritual powers of the Siddhas without You, no one has attained such powers. They are received only by Your Grace. No one can block them or stop their flow. ||3||
+
+aakhan vaalaa kiaa vechaaraa || sifatee bhare tere bha(n)ddaaraa Il jis too dheh tisai kiaa chaaraa || naanak sach savaaranahaaraa ||4|||
+2||
+What can the poor helpless creatures do? Your Praises are overflowing with Your Treasures. Those, unto whom You give-how can they think of any other? O Nanak, the True One embellishes and exalts. ||4||2||
+
+aasaa mahalaa pehilaa ||
+Aasaa, First Mehla:
+
+aakhaa jeevaa visarai mar jaau || aakhan aaukhaa saachaa naau || saache naam kee laagai bhookh || aut bhookhai khai chale’eeh dhookh ||1||
+Chanting it, I live; forgetting it, I die. It is so difficult to chant the True Name. If someone feels hunger for the True Name, that hunger shall consume his pain. ||1||
+
+so kiau visarai meree mai || saachaa saahib saachai nai || 1|| rahaau || saache naam kee til vaddiaaiee || aakh thake keemat nahee paiee || je sabh mil kai aakhan paeh || vaddaa na hovai ghaaT na jai ||2|| How can I forget Him, O my mother? True is the Master, True is His Name. ||1||Pausell Trying to describe even an iota of the Greatness of the True Name, people have grown weary, but they have not been able to evaluate it. Even if everyone were to gather together and speak of Him, He would not become any greater or any lesser. ||2||
+
+naa oh marai na hovai sog || dhedhaa rahai na chookai bhog || gun eho hor naahee koi || naa ko hoaa naa ko hoi ||3||
+That Lord does not die; there is no reason to mourn. He continues to give, and His Provisions never run short. This Virtue is His alone; there is no other like Him. There never has been, and there never will be. ||3|||
+
+jevadd aap tevadd teree dhaat || jin dhin kar kai keetee raat || khasam visaareh te kamajaat || naanak naavai baajh sanaat ||4||3||
+As Great as You Yourself are, O Lord, so Great are Your Gifts. The One who created the day also created the night. Those who forget their Lord and Master are vile and despicable. O Nanak, without the Name,they are wretched outcasts. |14||3|||
+
+raag goojaree mahalaa chauthhaa||
+Raag Goojaree, Fourth Mehla:
+
+har ke jan satigur satapurakhaa binau karau gur paas || ham keere kiram satigur saranaiee kar dhiaa naam paragaas ||1||
+O humble servant of the Lord, O True Guru, O True Primal Being: I offer my humble prayer to You, O Guru. I am a mere insect, a worm. O True Guru, I seek Your Sanctuary. Please be merciful, and bless me with the Light of the Naam, the Name of the Lord. II1||
+
+mere meet gurdhev mo kau raam naam paragaas || gurmat naam meraa praan sakhaiee har keerat hamaree raharaas ||1|| rahaau ||
+O my Best Friend, O Divine Guru, please enlighten me with the Name of the Lord. Through the Guru’s Teachings, the Naam is my breath of life. The Kirtan of the Lord’s Praise is my life’s occupation. ||1||Pause||
+
+har jan ke vadd bhaag vaddere jin har har saradhaa har piaas || har har naam milai tirapataaseh mil sa(n)gat gun paragaas ||2||
+The servants of the Lord have the greatest good fortune; they have faith in the Lord, and a longing for the Lord. Obtaining the Name of the Lord, Har, Har, they are satisfied; joining the Sangat, the Blessed Congregation, their virtues shine forth. ||2||
+
+jin har har har ras naam na paiaa te bhaagaheen jam paas || jo satigur saran sa(n)gat nahee aae dhirag jeeve dhirag jeevaas ||3||
+Those who have not obtained the Sublime Essence of the Name of the Lord, Har, Har, Har, are most unfortunate; they are led away by the Messenger of Death. Those who have not sought the Sanctuary of the True Guru and the Sangat, the Holy Congregation-cursed are their lives, and cursed are their hopes of life. ||3||
+
+jin har jan satigur sa(n)gat paiee tin dhur masatak likhiaa likhaas || dhan dha(n)n satasa(n)gat jit har ras paiaa mil jan naanak naam paragaas ||4||4|| Those humble servants of the Lord who have attained the Company of the True Guru, have such pre-ordained destiny inscribed on their foreheads. Blessed, blessed is the Sat Sangat, the True Congregation, where the Lord’s Essence is obtained. Meeting with His humble servant, O Nanak, the Light of the Naam shines forth. ||4||4||
+
+raag goojaree mahalaa panjavaa ||
+Raag Goojaree, Fifth Mehla:
+
+kaahe re man chitaveh udham jaa aahar har jeeau pariaa || sail pathar meh ja(n)t upaae taa kaa rijak aagai kar dhariaa ||1||
+Why, O mind, do you plot and plan, when the Dear Lord Himself provides for your care? From rocks and stones He created living beings; He places their nourishment before them. ||1||
+
+mere maadhau jee satasa(n)gat mile su tariaa || gur parasaadh param padh paiaa sooke kaasaT hariaa ||1|| rahaau || janan pitaa lok sut banitaa koi na kis kee dhariaa Il sir sir rijak sa(n)baahe Thaakur kaahe man bhau kariaa ||2||
+O my Dear Lord of souls, one who joins the Sat Sangat, the True Congregation, is saved. By Guru’s Grace, the supreme status is obtained, and the dry wood blossoms forth again in lush greenery. ||1||Pausell Mothers, fathers, friends, children and spouses-no one is the support of anyone else. For each and every person, our Lord and Master provides sustenance. Why are you so afraid, O mind? ||2||
+
+uoodde uoodd aavai sai kosaa tis paachhai bachare chhariaa || tin kavan khalaavai kavan chugaavai man meh simaran kariaa ||3||
+The flamingoes fly hundreds of miles, leaving their young ones behind. Who feeds them, and who teaches them to feed themselves? Have you ever thought of this in your mind? ||3||
+
+sabh nidhaan dhas asaT sidhaan Thaakur kar tal dhariaa || jan naanak bal bal sadh bal jaieeaai teraa a(n)t na paaraavariaa |14||5||
+All the nine treasures, and the eighteen supernatural powers are held by our Lord and Master in the Palm of His Hand.. Servant Nanak is devoted, dedicated, forever a sacrifice to You, Lord. Your Expanse has no limit, no boundary. ||4||5|||
+
+ikoankaar satigur prasaadh ||
+One Universal Creator God. By The Grace Of The True Guru:
+
+raag aasaa mahalaa chauthhaa so purakhu
+Raag Aasaa, Fourth Mehla, So Purakh ~ That Primal Being:
+
+ikOankaar satigur prasaadh ||
+One Universal Creator God. By The Grace Of
+The True Guru:
+
+so purakh nira(n)jan har purakh nira(n)jan har agamaa agam apaaraa || sabh dhiaaveh sabh sirajanahaaraa || sabh jeea tumaare jee too(n) jeeaa kaa dhaataaraa || har dhiaavahu sa(n)tahu jee sabh dhookh visaaranahaaraa || har aape Thaakur har aape sevak jee kiaa naanak ja(n)t vichaaraa ||1||
+That Primal Being is Immaculate and Pure. The Lord, the Primal Being, is Immaculate and Pure. The Lord is Inaccessible, Unreachable and Unrivalled. All meditate, all meditate on You, Dear Lord, O True Creator Lord. All living beings are Yours-You are the Giver of all souls. Meditate on the Lord, O Saints; He is the Dispeller of all sorrow. The Lord Himself is the Master, the Lord Himself is the Servant. O Nanak, the poor beings are wretched and miserable! ||1||
+
+too(n) ghaT ghaT a(n)tar sarab nira(n)tar jee har eko purakh samaanaa || eik dhaate ik bhekhaaree jee sabh tere choj viddaanaa || too(n) aape dhaataa aape bhugataa jee hau tudh bin avar na jaanaa || too(n) paarabraham bea(n)t bea(n)t jee tere kiaa gun aakh vakhaanaa || jo seveh jo seveh tudh jee jan naanak. tin kurabaanaa ||2||
+You are constant in each and every heart, and in all things. O Dear Lord, you are the One. Some are givers, and some are beggars. This is all Your Wondrous Play. You Yourself are the Giver, and You Yourself are the Enjoyer. I know no other than You. You are the Supreme Lord God, Limitless and Infinite. What Virtues of Yours can I speak of and describe? Unto those who serve You, unto those who serve You, Dear Lord, servant Nanak is a sacrifice. ||2||
+
+har dhiaaveh har dhiaaveh tudh jee se jan jug meh sukhavaasee Il se mukat se mukat bhe jin har dhiaaiaa jee tin tooTee jam kee faasee || jin nirabhau jin har nirabhau dhiaaiaa jee tin kaa bhau sabh gavaasee || jin seviaa jin seviaa meraa har jee te har har roop samaasee Il se dha(n)n se dha(n)n jin har dhiaaiaa jee jan naanak tin bal jaasee ||3||
+Those who meditate on You, Lord, those who meditate on You-those humble: beings dwell in peace in this world. They are liberated, they are liberated-those who meditate on the Lord. For them, the noose of death is cut away. Those who meditate on the Fearless One, on the Fearless Lord all their fears are dispelled. Those who serve, those who serve my Dear Lord, are absorbed into the Being of the Lord, Har, Har. Blessed are they, blessed are they, who meditate on their Dear Lord. Servant Nanak is a sacrifice to them. ||3||
+
+teree bhagat teree bhagat bha(n)ddaar jee bhare bia(n)t bea(n)taa || tere bhagat tere bhagat salaahan tudh jee har anik anek ana(n)taa || teree anik teree anik kareh har poojaa jee tap taapeh japeh bea(n)taa || tere anek tere anek paReh bahu simirat saasat jee kar kiriaa khaT karam kara(n)taa || se bhagat se bhagat bhale jan naanak jee jo bhaaveh mere har bhagava(n)taa ||4||
+Devotion to You, devotion to You, is a treasure overflowing, infinite and beyond measure. Your devotees, Your devotees praise You, Dear Lord, in many and various and countless ways. For You, many, for You, so very many perform worship services, O Dear Infinite Lord, they practice disciplined meditation and chant endlessly. For You, many, for You, so very many read the various Simritees and Shaastras. They perform rituals and religious rites. Those devotees, those devotees are sublime, O servant Nanak, who are pleasing to my Dear Lord God. ||4||
+
+too(n) aadh purakh apara(n)par karataa jee tudh jevadd avar na. koiee || too(n) jug jug eko sadhaa sadhaa too(n) eko jee too(n) nihachal karataa soiee || tudh aape bhaavai solee varatai jee too(n) aape kareh su hoiee || tudh aape sirasaT sabh upaiee jee tudh aape siraj sabh golee || jan naanak gun gaavai karate ke jee jo sabhasai kaa jaanolee ||5||1||
+You are the Primal Being, the Most Wonderful Creator. There is no other as Great as You. Age after age, You are the One. Forever and ever, You are the One. You never change, O Creator Lord. Everything happens according to Your Will You Yourself accomplish all that occurs. You Yourself created the entire universe, and having fashioned it. You Yourself shall destroy it all. Servant Nanak sings the Glorious Praises of the Dear Creator, the Knower of all ||5||1||
+
+aasaa mahalaa chauthhaa ||
+Aasaa, Fourth Mehia;
+
+too(n) karataa sachiaar maiddaa saa(n)iee || jo tau bhaavai soiee theesee jo too(n) dheh soiee hau paiee ||1|| rahaau || sabh teree too(n) sabhanee dhiaaiaa || jis no kirapaa kareh tin naam ratan paiaa Il gurmukh laadhaa manmukh gavaiaa || tudh aap vichhoRiaa aap milaiaa ||1||
+You are the True Creator, my Lord and Master. Whatever pleases You comes to pass. As You give, so do we receive. ||1||| Pausell All belong to You, all meditate on you. Those who are blessed with Your Mercy obtain the Jewel of the Naam, the Name of the Lord. The Gurmukhs obtain it, and the self-willed manmukhs lose it. You Yourself separate them from Yourself, and You Yourself reunite with them again. ||1||
+
+too(n) dhareeaau sabh tujh hee maeh || tujh bin dhoojaa koiee naeh || jeea ja(n)t sabh teraa khel II vijog mil vichhuRiaa sa(n)jogee mel ||2||
+You are the River of Life; all are within You. There is no one except You. All living beings are Your playthings. The separated ones meet, and by great good fortune, those suffering in separation are reunited once again. ||2||
+
+jis no too jaanaieh soiee jan jaanai Il har gun sadh hee aakh vakhaanai Il jin har seviaa tin sukh paiaa || sahaje hee har naam samaiaa ||3|||
+They alone understand, whom You inspire to understand; they continually chant and repeat the Lord’s Praises. Those who serve You find peace. They are intuitively absorbed into the Lord’s Name. ||3||
+
+too aape karataa teraa keeaa sabh hoi || tudh bin dhoojaa avar na koi Il too kar kar vekheh jaaneh soi || jan naanak gurmukh paragaT hoi ||4||2||
+You Yourself are the Creator. Everything that happens is by Your Doing. There is no one except You. You created the creation; You behold it and understand it. O servant Nanak, the Lord is revealed through the Gurmukh, the Living Expression of the Guru’s Word. |14||2||
+
+aasaa mahalaa pehilaa ||
+Aasaa, First Mehla:
+
+tit saravaraRai bhieele nivaasaa paanee paavak tineh keeaa || pa(n)kaj moh pag nahee chaalai ham dhekhaa teh ddoobeeale ||1||
+In that pool, people have made their homes, but the water there is as hot as fire! In the swamp of emotional attachment, their feet cannot move. I have seen them drowning there. ||1||
+
+man ek na chetas mooR manaa Il har bisarat tere gun galiaa || 1|| rahaau || naa hau jatee satee nahee paRiaa moorakh mugadhaa janam bhiaa || pranavat naanak tin kee saranaa jin too naahee veesariaa ||2||3||
+In your mind, you do not remember the One Lord-you fool! You have forgotten the Lord; your virtues shall wither away. ||1||Pause|| 1 am not celibate, nor truthful, nor scholarly. I was born foolish and ignorant into this world. Prays Nanak, I seek the Sanctuary of those who have not forgotten You, O Lord! ||21|3||
+
+aasaa mahalaa panjavaa ||
+Aasaa, Fifth Mehla:
+
+bhiee paraapat maanukh dhehureeaa || gobi(n)dh milan kee ieh teree bareeaa || avar kaaj terai kitai na kaam || mil saadhasa(n)gat bhaj keval naam ||1||
+This human body has been given to you. This is your chance to meet the Lord of the Universe. Nothing else will work. Join the Saadh Sangat, the Company of the Holy; vibrate and meditate on the Jewel of the Naam. ||1||
+
+sara(n)jaam laag bhavajal taran kai Il janam birathaa jaat ra(n)g maiaa kai ||1|| rahaau || jap tap sa(n)jam dharam na kamaiaa || sevaa saadh na jaaniaa har raiaa || kahu naanak. ham neech kara(n)maa || saran pare kee raakhahu saramaa ||2||4||
+Make every effort to cross over this Pause I have not practiced meditation, self-discipline, self-restraint or righteous living. I have not served the Holy; I have not acknowledged the Lord, my King. Says Nanak, my actions are contemptible! O Lord, terrifying world-ocean. You are squandering this life uselessly in the love of Maya. ||1|| I seek Your Sanctuary, please, preserve my honor! ||2||4||
+
+ikOankaar sree vaahiguroo jee kee fateh ||
+There is one god, Waheguroo, Victory is his.
+
+paatishaahee 10 ||
+Written by the Sovereign King, Guru Gobind Singh Ji
+
+kabiyo baach benatee ||
+Speech of the poet.
+
+chauapiee ||
+Chaupai
+
+hamaree karo haath dhai ra’chhaa Il pooran hoi chit kee i’chhaa || tav charanan man rahai hamaaraa || apanaa jaan karo pratipaaraa || 377||
+Protect me O Lord! with Thine own Hands all the desires of my heart be fulfilled. Let my mind rest under Thy Feet Sustain me, considering me Thine own.377.
+hamare dhusaT sabhai tum ghaavahu || aap haath dhai moh bachaavahu || sukhee basai moro parivaaraa || sevak si’kh sabhai karataaraa ||378||
+Destroy, O Lord! all my enemies and protect me with Thine won Hands. May my family live in comfort and ease alongwith all my servants and disciples.378.
+
+mo ra’chhaa nij kar dhai kariyai || sabh bairan ko aaj sa(n)ghariyai || pooran hoi hamaaree aasaa || tor bhajan kee rahai piaasaa ||379||
+Protect me O Lord! with Thine own Hands and destroy this day all my enemies May all the aspirations be fulfilled Let my thirst for Thy Name remain afresh.379.
+
+tumeh chhaadd koiee avar na dhiyaauoo(n) || jo bar chaho(n) su tum te paauoo(n) || sevak si’kh hamaare taare’eh || chun chun satr hamaare maare’eh ||380||
+I may remember none else except Thee And obtain all the required boons from Thee Let my servants and disciples cross the world-ocean All my enemies be singled out and killed.380.
+
+aap haath dhai mujhai ubariyai || maran kaal kaa traas nivariyai || hoojo sadhaa hamaare pa’chhaa || sree asidhuj joo kariyahu ra’chhaa ||381||
+Protect me O Lord! with Thine own Hands and relieve me form the fear of death May Thou ever Bestow Thy favours on my side Protect me O Lord! Thou, the Supreme Destroyer.381.
+
+raakh leh muh raakhanahaare Il saahib sa(n)t sahai piyaare Il dheen ba(n)dh dhusa Tan ke ha(n)taa || tum ho puree chatur dhas ka(n)taa ||382||
+Protect me, O Protector Lord! Most dear, the Protector of the Saints: Friend of poor and the Destroyer of the enemies Thou art the Master of the fourteen worlds.382.
+
+kaal pai brahamaa bap dharaa || kaal pai sivajoo avataraa || kaal pai kar bisan prakaasaa || sakal kaal kaa keeaa tamaasaa ||383||
+In due time Brahma appeared in physical form In due time Shiva incarnated In due time Vishnu manifested himself All this is the play of the Temporal Lord.383.
+
+javan kaal jogee siv keeo || bedh raaj brahamaa joo theeo || javan kaal sabh lok savaaraa || namasakaar hai taeh hamaaraa ||384||
+The Temporal Lord, who created Shiva, the Yogi Who created Brahma, the Master of the Vedas The Temporal Lord who fashioned the entire world I salute the same Lord.384.
+
+javan kaal sabh jagat banaayo || dhev dhait ja’chhan upajaayo || aadh a(n)t ekai avataaraa || soiee guroo samajhiyahu hamaaraa ||385||
+The Temporal Lord, who created the whole world Who created gods, demons and yakshas He is the only one form the beginning to the end I consider Him only my Guru.385.
+
+namasakaar tis hee ko hamaaree || sakal prajaa jin aap savaaree || sivakan ko sivagun sukh dheeo || sata’run ko pal mo badh keeo ||386||
+I salute Him, non else, but Him Who has created Himself and His subject He bestows Divine virtues and happiness on His servants He destroys the enemies instantly.386.
+
+ghaT ghaT ke a(n)tar kee jaanat || bhale bure kee peer pachhaanat || chee Tee te ku(n)char asathoolaa Il sabh par kirapaa dhirasat kar foolaa ||387||
+He knows the inner feelings of every heart He knows the anguish of both good and bad From the ant to the solid elephant He casts His Graceful glance on all and feels pleased.387.
+
+sa(n)tan dhukh paae te dhukhee || sukh paae saadhun ke sukhee || ek ek kee peer pachhaanai(n) || ghaT ghaT ke pat paT kee jaanai(n) ||388||
+He is painful, when He sees His saints in grief He is happy, when His saints are happy. He knows the agony of everyone He knows the innermost secrets of every heart.388.
+
+jab udhakarakh karaa karataaraa || prajaa dharat tab dheh apaaraa || jab aakarakh karat ho kabahoo(n) Il tum mai milat dheh dhar sabhahoo(n) ||389||
+When the Creator projected Himself, His creation manifested itself in innumerable forms When at any time He withdraws His creation, all the physical forms are merged in Him.389.
+
+jete badhan sirasaT sabh dhaarai.Il aap aapanee boojh uchaarai || tum sabhahee te rahat niraalam || jaanat bedh bhedh ar aalam ||390||
+All the bodies of living beings created in the world speak about Him according to their understanding But Thou, O Lord! live quite apart from everything this fact is know to the Vedas and the learned.390.
+
+nira(n)kaar nirabikaar nirala(n)bh Il aadh aneel anaadh asa(n)bh || taakaa mooRh uchaarat bhedhaa Il jaa ko bhev na paavat bedhaa ||391||
+The Lord is Formless, Sinless and shelterless: He is the Primal Power, without Blemish, without Beginning and Unborn The fool claims boastfully about the knowledge of His secrets, which even the Vedas do not know.391.
+
+taa ko kar paahan anumaanat || mahaa mooRh kachh bhedh na jaanat || mahaadhev ko kahat sadhaa siv || nira(n)kaar kaa cheenat neh bhiv ||392||
+The fool considers Him a stone, but the great fool does not know any secret He calls Shiva “The Eternal Lord, “but he does not know the secret of the Formless Lord.392
+
+aap aapanee budh hai jetee || baranat bhi(n)n bhi(n)n tuh tetee || tumaraa lakhaa na jai pasaaraa || keh bidh sajaa pratham sa(n)saaraa ||393||
+According to ones won intellect, one describes Thee differently The limits of Thy creation cannot be known and how the world was fashioned in the beginning?393.
+
+ekai roop anoop saroopaa || ra(n)k bhayo raav kahee bhoopaa Il a(n)ddaj jeraj setaj keenee Il autabhuj khaan bahur rach dheenee ||394||
+He hath only one unparalleled Form He manifests Himself as a poor man or a king at different places He created creatures from eggs, wombs and perspiration Then He created the vegetable kingdom. 394.
+
+kahoo(n) fool raajaa havai baiThaa Il kahoo(n) simaT bhiyo sa(n)kar ikaiThaa || sagaree sirasaT dhikhai acha(n)bhav || aadh jugaadh saroop suya(n)bhav ||395||
+Somewhere He sits joyfully as a king Somewhere He contracts Himself as Shiva, the Yogi All His creation unfolds wonderful things He, the Primal Power, is from the beginning and Self-Existent.395.
+
+ab ra’chhaa meree tum karo || si’kh ubaar asikh sa(n)gharo || dhushaT jite uThavat utapaataa || sakal malechh karo ran ghaataa ||396||
+O Lord! keep me now under Thy protection Protect my disciples and destroy my enemies All the villains creations outrage and all the infidels be destroyed in the battlefield.396.
+
+je asidhuj tav saranee pare|| tin ke dhushaT dhukhit havai mare || purakh javan pag pare tihaare || tin ke tum sa(n)kaT sabh Taare ||397||
+O Supreme Destroyer! those who sought Thy refuge, their enemies met painful death The persons who fell at Thy Feet, thou didst. remove all their troubles.397.
+
+jo kal ko ik baar dhiaai hai || taa ke kaal nikaT neh aaihai || ra’chhaa hoi taeh sabh kaalaa || dhusaT arisaT Tare(n) tatakaalaa ||398||
+Those who meditate even on the Supreme Destroyer, death cannot approach them. They remain protected at all times Their enemies and troubles come to and end instantly 398.
+
+kirapaa dhirasaT tan jaeh nihariho Il taake taap tanak mo hariho || ridh si’dh ghar mo sabh hoiee || dhushaT chhaeh chhavai sakai na kolee ||399||
+Upon whomsoever Thou dost cast Thy favourable glance, they are absolved of sins instantly They have all the worldly and spiritual pleasures in their homes None of their enemies can even touch their shadow.399.
+
+ek baar jin tumai sa(n)bhaaraa || kaal faas te taeh ubaaraa || jin nar naam tihaaro kahaa || dhaaridh dhusaT dhokh te rahaa ||400|||
+He, who remembered Thee even once, thou didst protect him from the noose of death Those persons, who repeated Thy Name, they were saved from poverty and attacks of enemies.400. khaRag ket mai saran tihaaree ||
+
+aap haath dhai leh ubaaree || sarab Thauar mo hoh sahaiee || dhusaT dhokh te leh bachaiee ||401||
+0 Immortal Being (with the sword on Your. banner)! I am under Your protection. Give me Your hand and save me. Stand by me everywhere, and guard me against enmity and pain. 401.
+
+savaiyaa ||
+SWAYYA
+
+pai gahe jab te tumare tab te kouoo aa(n)kh tare nahee aanayo Il raam raheem puraan kuraan anek kahai(n) mat ek na maanayo || si(n)mirat saasatr bedh sabhai bahu bhedh kahai ham ek na jaanayo || sree asipaan kirapaa tumaree kar mai na kahayo sabh toh bakhaanayo ||863||
+O God! the day when I caught hold of your feet, I do not bring anyone else under my sight None other is liked by me now the Puranas and the Quran try to know Thee by the names of Ram and Rahim and talk about you through several stories, The Simritis, Shastras and Vedas describe several mysteries of yours, but I do not agree with any of them. O sword-wielder God! This all has been described by Thy Grace, what power can I have to write all this?.863.
+
+dhoharaa ||
+DOHRA
+
+sagal dhuaar kau chhaadd kai gahayo tuhaaro dhuaar || baeh gahe kee laaj as gobi(n)dh dhaas tuhaar ||864||
+O Lord! I have forsaken all other doors and have caught hold of only Thy door. O Lord! Thou has caught hold of my arm I, Govind, am Thy serf, kindly take (care of me and) protect my honour.864.
+
+ikOankaar satigur prasaadh ||
+One Universal Creator God. By The Grace Of The True Guru:
+
+raamakalee mahalaa teejaa ana(n)dhu
+Raamkalee, Third Mehla, Anand The Song Of Bliss:
+
+ikOankaar satigur prasaadh ||
+One Universal Creator God. By The Grace Of The True Guru:
+
+ana(n)dh bhiaa meree maae satiguroo mai paiaa || satigur ta paiaa sahaj setee man vajeeaa vaadhaieeaa || raag ratan paravaar pareeaa sabadh gaavan aaieeaa || sabadho ta gaavahu haree keraa man jinee vasaiaa || kahai naanak ana(n)dh hoaa satiguroo mai paiaa
+I am in ecstasy, O my mother, for I have found my True Guru. I have found the True Guru, with intuitive ease, and my mind vibrates with the music of bliss. The jewelled melodies and their related celestial harmonies have come to sing the Word of the Shabad. The Lord dwells within the minds of those who sing the Shabad, Says. Nanak, I am in ecstasy, for I have found my True Guru. ||1||
+
+e man meriaa too sadhaa rahu har naale || har naal rahu too ma(n)n mere dhookh sabh visaaranaa || a(n)geekaar oh kare teraa kaaraj sabh savaaranaa || sabhanaa galaa samarath suaam so kiau manahu visaare || kahai naanak ma(n)n mere sadhaa rahu har naale ||2||
+O my mind, remain always with the Lord. Remain always with the Lord, O my mind, and all sufferings will be forgotten. He will accept You as His own, and all your affairs will be perfectly arranged. Our Lord and Master is all-powerful to do all things, so why forget Him from your mind? Says Nanak, O my mind, remain always with the Lord. ||2||
+
+saache saahibaa kiaa naahee ghar terai || ghar ta terai sabh kichh hai jis dheh su paave || sadhaa sifat salaeh teree naam man vasaave || naam jin kai man vasiaa vaaje sabadh ghanere || kahai naanak sache saahib kiaa naahee ghar terai ||3||
+O my True Lord and Master, what is there which is not in Your celestial home? Everything is in Your home, they receive, unto whom You give. Constantly singing Your Praises and Glories, Your Name is enshrined in the mind. The divine melody of the Shabad vibrates for those, within whose minds the Naam abides. Says Nanak, O my True Lord and Master, what is there which is not in Your home? ||3||
+
+saachaa naam meraa aadhaaro Il saach naam adhaar meraa jin bhukhaa sabh gavaieeaa || kar saa(n)t sukh man aai vasiaa jin ichhaa sabh pujaieeaa || sadhaa kurabaan keetaa guroo viTahu jis dheeaa eh vaddiaaieeaa || kahai naanak sunahu sa(n)tahu sabadh dharahu piaaro || saachaa naam meraa aadhaaro ||4||
+The True Name is my only support. The tranquility to my mind, it has fulfilled all my desires. I am forever a sacrifice to the Guru, who possesses such glorious greatness. Says Nanak, listen, O Saints; enshrine love for the Shabad. The True Name is my only support. ||4||
+
+vaaje pa(n)ch sabadh tit ghar sabhaagai || ghar sabhaagai sabadh vaaje kalaa jit ghar dhaareeaa || pa(n)ch dhoot tudh vas keete kaal ka(n)Tak maariaa Il dhur karam paiaa tudh jin kau s naam har kai laage || kahai naanak. teh sukh hoaa tit ghar anahadh vaaje ||5||
+The Panch Shabad, the five primal sounds, vibrate in that blessed house. In that blessed house, the Shabad vibrates; He infuses His almighty power into it. Through You, we subdue the five demons of desire, and slay Death, the torturer. Those who have such pre-ordained destiny area attached to the Lord’s Name. Says Nanak, they are at peace, and the unstruck sound current vibrates within their homes. ||5||
+
+anadh sunahu vaddabhaageeho sagal manorath poore || paarabraham prabh paiaa utare sagal visoore || dhookh rog sa(n)taap utare sunee sachee baanee || sa(n)t saajan bhe sarase poore gur te jaanee || sunate puneet kahate pavit satigur rahiaa bharapoore || binava(n)t naanak gur charan laage vaaje anahadh toore ||40||1||
+Listen to the song of bliss, O most fortunate Iones; all your longings shall be fulfilled. I have obtained the Supreme Lord God, and all sorrows have been forgotten. Pain, illness and suffering have departed, listening to the True Bani. The Saints and their friends are in ecstasy, knowing the Perfect Guru. Pure are the listeners, and pure are the speakers; the True Guru is all-pervading and permeating. Prays Nanak, touching the Guru’s Feet, the unstruck sound current of the celestial bugles vibrates and resounds. ||40||1||
+
+mu(n)dhaavanee mahalaa panjavaa ||
+Mundaavanee, Fifth Mehla:
+
+thaal vich ti(n)n vasatoo pieeo sat sa(n)tokh veechaaro || a(n)mirat naam Thaakur kaa pio jis kaa sabhas adhaaro II je ko khaavai je ko bhu(n)chai tis kaa hoi udhaaro Il eh vasat tajee neh jaiee nit nit rakh ur dhaaro || tam sa(n)saar charan lag tareeaai sabh naanak braham pasaaro ||1||
+Upon this Plate, three things have been placed: Truth, Contentment and Contemplation. The Ambrosial Nectar of the Naam, the Name of our Lord and Master, has been placed upon it as well; it is the Support of all. One who eats it and enjoys it shall be saved. This thing can never be forsaken; keep this always and forever in your mind. The dark world-ocean is crossed over, by grasping the Feet of the Lord; O Nanak, it is all the extension of God. ||1||
+
+salok mahalaa panjavaa ||
+Shalok, Fifth Mehla:
+
+teraa keetaa jaato naahee maino jog keetoiee || mai niraguniaare ko gun naahee aape taras pioiee || taras piaa miharaamat hoiee satigur sajan miliaa || naanak naam milai taa(n) jeevaa(n) tan man theevai hariaa ||1||
+I have not appreciated what You have done for me, Lord; only You can make me worthy. I am unworthy – I have no worth or virtues at all. You have taken pity on me. You took pity on me, and blessed me with Your Mercy, and I have met the True Guru, my Friend. O Nanak, if I am blessed with the Naam, I live, and my body and mind blossom forth. ||1||
+
+jaisee agan udhar meh taisee baahar maiaa || maiaa agan sabh iko jehee karatai khel rachaiaa || jaa tis bhaanaa taa ja(n)miaa paravaar bhalaa bhaiaa || liv chhuRakee lagee tirasanaa maiaa amar varataiaa || eh maiaa jit har visarai moh upajai bhaau dhoojaa laiaa || kahai naanak gur parasaadhee jinaa liv laagee tinee viche maiaa paiaa ||29||
+As is the fire within the womb, so is Maya outside. The fire of Maya is one and the same; the Creator has staged this play. According to His Will, the child is born, and the family is very pleased. Love for the Lord wears off, and the child becomes. attached to desires; the script of Maya runs its course. This is Maya, by which the Lord is forgotten; emotional attachment and love of duality well up.Says Nanak,
+by Guru’s Grace, those who enshrine love for the Lord find Him, in the midst of Maya.||29||
+
+har aap amulak hai mul na paiaa jai || mul na paiaa jai kisai viTahu rahe lok vilalai || aaisaa satigur je milai tis no sir saupeeaai vichahu aap jai || jis dhaa jeeau tis mil rahai har vasai man aai || har aap amulak hai bhaag tinaa ke naanakaa jin har palai pai ||30||
+The Lord Himself is priceless; His worth cannot be estimated. His worth cannot be estimated, even though people have grown weary of trying. If you meet such a True Guru, offer your head to Him; your selfishness and conceit will be eradicated from within. Your soul belongs to Him; remain united with Him, and the Lord will come to dwell in your mind. The Lord Himself is priceless; very fortunate are those, O Nanak, who attain to the Lord. ||30||
+
+har raas meree man vanajaaraa || har raas meree man vanajaaraa satigur te raas jaanee || har har nit japih jeeahu laahaa khaTih dhihaaRee || eh dhan tinaa miliaa jin har aape bhaanaa || kahai naanak har raas meree man hoaa vanajaaraa ||31||
+The Lord is my capital; my mind is the merchant. The Lord is my capital, and my mind is the merchant; through the True Guru, I know my capital. Meditate continually on the Lord, Har, Har, O my soul, and you shall collect your profits daily. This wealth is obtained by those who are pleasing to the Lord’s Will. Says Nanak, the Lord is my capital, and my mind is the merchant. ||31||
+
+e rasanaa too an ras raach rahee teree piaas na jai || piaas na jai horat kitai jichar har ras palai na pai || har ras pai palai peeaai har ras bahuR na tirasanaa laagai aai || eh har ras karamee paieeaai satigur milai jis aai || kahai naanak hor an ras sabh veesare jaa har vasai man aai ||32||
+O my tongue, you are engrossed in other tastes, but your thirsty desire is not quenched. Your thirst shall not be quenched by any means, until you attain the subtle essence of the Lord. If you do obtain the subtle essence of the Lord, and drink in this essence of the Lord, you shall not be troubled by desire again. This subtle essence of the Lord is obtained by good karma, when one comes to meet with the True Guru. Says Nanak, all other tastes and essences are forgotten, when the Lord comes to dwell within the mind.||32||
+
+e sareeraa meriaa har tum meh jot rakhee taa too jag meh aaiaa || har jot rakhee tudh vich taa too jag meh aaiaa || har aape maataa aape pitaa jin jeeau upai jagat dhikhaiaa Il gur parasaadhee bujhiaa taa chalat hoaa chalat nadharee aaiaa || kahai naanak sirasaT kaa mool rachiaa jot raakhee taa too jag meh aaiaa || 33||
+O my body, the Lord infused His Light into you, and then you came into the world. The Lord infused His Light into you, and then you came into the world. The Lord Himself is your mother, and He Himself is your father; He created the created beings, and revealed the world to them. By Guru’s Grace, some understand, and then it’s a show; it seems like just a show. Says Nanak, He laid the foundation of the Universe, and infused His Light, and then you came into the world. ||33||
+
+man chaau bhiaa prabh aagam suniaa || har ma(n)gal gaau sakhee girahu ma(n)dhar baniaa || har gaau ma(n)gal nit sakhe’ee sog dhookh na viaape || gur charan laage dhin sabhaage aapanaa pir jaape || anahat baanee gur sabadh jaanee har naam har ras bhogo || kahai naanak prabh aap miliaa karan kaaran jogo ||34||
+My mind has become joyful, hearing of God’s coming. Sing the songs of joy to welcome the Lord, O my companions; my household has become the Lord’s Mansion. Sing continually the songs of joy to welcome the Lord, O my companions, and sorrow and suffering will not afflict you. Blessed is that day, when I am attached to the Guru’s feet and meditate on my Husband Lord. I have come to know the unstruck sound current and the Word of the Guru’s Shabad; I enjoy the sublime essence of the Lord, the Lord’s Name. Says Nanak,God Himself has met me; He is the Deor, the Cause of causes. ||34||
+
+e sareeraa meriaa is jag meh aai kai kiaa tudh karam kamaiaa || k karam kamaiaa tudh sareeraa jaa too jag meh aaiaa || jin har teraa rachan rachiaa so har man na vasaiaa Il gur parasaadhee har ma(n)n vasiaa poorab likhiaa paiaa || kahai naanak eh sareer paravaan hoaa jin satigur siau chit laiaa ||35||
+O my body, why have you come into this world? What actions have you committed? And what actions have you committed, O my body, since you came into this world? The Lord who formed your form – you have not enshrined that Lord in your mind. By Guru’s Grace, the Lord abides within the mind, and one’s pre-ordained destiny is fulfilled. Says Nanak, this body is adorned and honored, when one’s consciousness is focused on the True Guru. ||35||
+
+e netrahu meriho har tum meh jot dharee har bin avar na dhekhahu koiee || har bin avar na dhekhahu koiee nadharee har nihaaliaa || eh vis sa(n)saar tum dhekhadhe eh har kaa roop hai har roop nadharee aaiaa || gur parasaadhee bujhiaa jaa vekhaa har ik hai har bin avar na koiee || kahai naanak eh netr a(n)dh se satigur miliaai dhib dhirasaT hoiee ||36||
+O my eyes, the Lord has infused His Light into you; do not look upon any other than the Lord. Do not look upon any other than the Lord; the Lord alone is worthy of beholding. This whole world which you see is the image of the Lord; only the image of the Lord is seen. By Guru’s Grace, I understand, and I see only the One Lord; there is no one except the Lord. Says Nanak, these eyes were blind; but meeting the True Guru, they became all-seeing.||36||
+
+e sravanahu meriho saachai sunanai no paThaae || saachai sunanai no paThaae sareer laae sunahu sat baanee || jit sunee man tan hariaa hoaa rasanaa ras samaanee || sach alakh viddaanee taa kee gat kahee na jaae || kahai naanak a(n)mirat naam sunahu pavitr hovahu saachai sunanai no paThaae ||37||
+O my ears, you were created only to hear the Truth. To hear the Truth, you were created and attached to the body; listen to the True Bani. Hearing it, the mind and body are rejuvenated, and the tongue is absorbed in Ambrosial Nectar. The True Lord is unseen and wondrous; His state cannot be described. Says Nanak, listen to the Ambrosial Naam and become holy; you were created only to hear the Truth. ||37||
+
+har jeeau gufaa a(n)dhar rakh kai vaajaa pavan vajaiaa || vajaiaa vaajaa paun nau dhuaare paragaT ke’ee dhasavaa gupat rakhaiaa || gurdhuaarai lai bhaavanee ikanaa dhasavaa dhuaar dhikhaiaa || teh anek roop naau nav nidh tis dhaa a(n)t na jaiee paiaa || kahai naanak har piaarai jeeau gufaa a(n)dhar rakh kai vaajaa pavan vajaiaa ||38||
+The Lord placed the soul to the cave of the body, and blew the breath of life into the musical instrument of the body. He blew the breath of life into the musical instrument of the body, and revealed the nine doors; but He kept the Tenth Door hidden.Through the Gurdwara, the Guru’s Gate, some are blessed with loving faith, and the Tenth Door is revealed to them. There are many images of the Lord, and the nine treasures of the Naam; His limits cannot be found. Says Nanak, the lord placed the soul to the cave of the body, and blew the breath of life into the musical instrument of the body.||38||
+
+eh saachaa sohilaa saachai ghar gaavahu || gaavahu ta sohilaa ghar saachai jithai sadhaa sach dhiaavahe || sacho dhiaaveh jaa tudh bhaaveh gurmukh jinaa bujhaavahe || eih sach sabhanaa kaa khasam hai jis bakhase so jan paavahe || kahai naanak sach sohilaa sachai ghar gaavahe ||39||
+Sing this true song of praise in the true home of your soul. Sing the song of praise in your true home; meditate there on the True Lord forever. They alone meditate on You, O True Lord, who are pleasing to Your Will; as Gurmukh, they understand. This Truth is the Lord and Master of all; whoever is blessed, obtains it. Says Nanak, sing the true song of praise in the true home of your soul. ||39||
+
+anadh sunahu vaddabhaageeho sagal manorath poore || paarabraham prabh paiaa utare sagal visoore || dhookh rog sa(n)taap utare sunee sachee baanee || sa(n)t saajan bhe sarase poore gur te jaanee || sunate puneet kahate pavit satigur rahiaa bharapoore || binava(n)t naanak gur charan laage vaaje anahadh toore ||40||1||
+Listen to the song of bliss, O most fortunate ones; all your longings shall be fulfilled. I have obtained the Supreme Lord God, and all sorrows have been forgotten. Pain, illness and suffering have departed, listening to the True Bani. The Saints and their friends are in ecstasy, knowing the Perfect Guru. Pure are the listeners, and pure are the speakers; the True Guru is all-pervading and permeating. Prays Nanak, touching the Guru’s Feet, the unstruck sound current of the celestial bugles vibrates and resounds. ||40||1|||
+
+ਵਾਹਿਗੁਰੂ ਜੀ ਕਾ ਖਾਲਸਾ, ਵਾਹਿਗੁਰੂ ਜੀ ਕੀ ਫ਼ਤਿਹ!
+""",
 };
