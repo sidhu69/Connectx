@@ -1,6 +1,7 @@
 const String japjiSahibMeaningTitle = "Japji Sahib Meaning";
 
 const String japjiSahibMeaningText =
+  """
 ik oNkaar
 There is Only One God
 Sat Naam
