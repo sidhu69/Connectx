@@ -3,6 +3,7 @@ import 'bani_japji_sahib_meaning.dart';
 import 'bani_jaap_sahib.dart';
 import 'bani_jaap_sahib_meaning.dart';
 import 'bani_anand_sahib.dart';
+import 'bani_anand_sahib.dart';
 // Add more bani imports here as you create them
 
 /// Central Gurbani registry
