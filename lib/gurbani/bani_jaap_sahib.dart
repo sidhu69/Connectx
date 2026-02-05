@@ -1,6 +1,6 @@
-const String japjiSahibTitle = "Jaap Sahib / ਜਾਪੁ ਸਾਹਿਬ";
+const String jaapSahibTitle = "Jaap Sahib / ਜਾਪੁ ਸਾਹਿਬ";
 
-const String japjiSahibText = """
+const String jaapjiSahibText = """
 ਸ੍ਰੀ ਵਾਹਿਗੁਰੂ ਜੀ ਕੀ ਫਤਹ ॥
 
 ਜਾਪੁ ॥
