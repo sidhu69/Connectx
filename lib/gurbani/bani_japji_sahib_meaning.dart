@@ -1,6 +1,6 @@
-const String japjiSahibTitle = "Meaning";
+const String japjiSahibMeaningTitle = "Japji Sahib Meaning";
 
-const String japjiSahibText = """
+const String japjiSahibMeaningText =
 ik oNkaar
 There is Only One God
 Sat Naam
